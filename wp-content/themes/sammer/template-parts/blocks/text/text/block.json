@@ -1,0 +1,22 @@
+{
+    "name": "acf/text",
+    "title": "Text",
+    "description": "Text.",
+    "category": "text",
+    "icon": "admin-comments",
+    "keywords": [
+        "references"
+    ],
+    "acf": {
+        "mode": "edit",
+        "renderTemplate": "text.php"
+    },
+    "example": {
+        "attributes": {
+            "mode": "preview",
+            "data": {
+                "gutenberg_preview_image": true
+            }
+        }
+    }
+}

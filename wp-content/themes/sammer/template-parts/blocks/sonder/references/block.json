@@ -1,0 +1,22 @@
+{
+    "name": "acf/references",
+    "title": "Ausgewählte Referenzen",
+    "description": "Ausgewählte Referenzen.",
+    "category": "sonder",
+    "icon": "admin-comments",
+    "keywords": [
+        "references"
+    ],
+    "acf": {
+        "mode": "edit",
+        "renderTemplate": "references.php"
+    },
+    "example": {
+        "attributes": {
+            "mode": "preview",
+            "data": {
+                "gutenberg_preview_image": true
+            }
+        }
+    }
+}

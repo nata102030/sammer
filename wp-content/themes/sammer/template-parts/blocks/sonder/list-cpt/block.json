@@ -1,0 +1,22 @@
+{
+    "name": "acf/list-cpt",
+    "title": "Liste CPT",
+    "description": "Liste CPT.",
+    "category": "sonder",
+    "icon": "admin-comments",
+    "keywords": [
+        "liste"
+    ],
+    "acf": {
+        "mode": "edit",
+        "renderTemplate": "list-cpt.php"
+    },
+    "example": {
+        "attributes": {
+            "mode": "preview",
+            "data": {
+                "gutenberg_preview_image": true
+            }
+        }
+    }
+}

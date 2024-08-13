@@ -1,0 +1,518 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Custom Content Scrollbar\n"
+"POT-Creation-Date: 2017-10-21 18:28+0600\n"
+"PO-Revision-Date: 2017-10-21 18:28+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: custom-content-scrollbar.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: includes/scrollbar-option-panel.php:4
+msgid "SH Scrollbar Options"
+msgstr ""
+
+#: includes/scrollbar-option-panel.php:22 includes/scrollbar-shortcode.php:55
+#: includes/scrollbar-shortcode.php:209 includes/scrollbar-shortcode.php:221
+#: includes/scrollbar-shortcode.php:269 includes/scrollbar-shortcode.php:315
+msgid "True"
+msgstr ""
+
+#: includes/scrollbar-option-panel.php:23 includes/scrollbar-shortcode.php:56
+#: includes/scrollbar-shortcode.php:210 includes/scrollbar-shortcode.php:222
+#: includes/scrollbar-shortcode.php:270 includes/scrollbar-shortcode.php:316
+msgid "False"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+#: includes/scrollbar-option-panel.php:28 includes/scrollbar-shortcode.php:22
+msgid "Custom Content Scrollbar"
+msgstr ""
+
+#: includes/scrollbar-option-panel.php:35
+msgid "Options saved"
+msgstr ""
+
+#: includes/scrollbar-option-panel.php:39
+msgid "Main Scrollbar"
+msgstr ""
+
+#: includes/scrollbar-option-panel.php:39
+#: includes/scrollbar-option-panel.php:231
+msgid "Custom Selector"
+msgstr ""
+
+#: includes/scrollbar-option-panel.php:77
+msgid "Show main scrollbar"
+msgstr ""
+
+#: includes/scrollbar-option-panel.php:86
+msgid ""
+"Enable or disable main scrollbar. If you select False the main scrollbar "
+"will hide from your theme. And default browser scrollbar will load"
+msgstr ""
+
+#: includes/scrollbar-option-panel.php:94
+#: includes/scrollbar-option-panel.php:275
+msgid "Dragger rail color"
+msgstr ""
+
+#: includes/scrollbar-option-panel.php:101
+#: includes/scrollbar-option-panel.php:282
+msgid "Select dragger rail color here. You can also add html HEX color code."
+msgstr ""
+
+#: includes/scrollbar-option-panel.php:107
+#: includes/scrollbar-option-panel.php:288
+msgid "Dragger rail width"
+msgstr ""
+
+#: includes/scrollbar-option-panel.php:112
+#: includes/scrollbar-option-panel.php:293
+msgid ""
+"Select dragger rail width here. Please use px. Example: 15px. You can add "
+"value 1px to 16px. More than 16px this value will not be execute."
+msgstr ""
+
+#: includes/scrollbar-option-panel.php:118
+#: includes/scrollbar-option-panel.php:310
+msgid "Dragger bar color"
+msgstr ""
+
+#: includes/scrollbar-option-panel.php:125
+#: includes/scrollbar-option-panel.php:317
+msgid "Select dragger bar color here. You can also add html HEX color code."
+msgstr ""
+
+#: includes/scrollbar-option-panel.php:131
+#: includes/scrollbar-option-panel.php:347
+msgid "Dragger bar border radius"
+msgstr ""
+
+#: includes/scrollbar-option-panel.php:136
+#: includes/scrollbar-option-panel.php:352
+msgid "Select dragger bar border radius here. Please use px. Example: 10px"
+msgstr ""
+
+#: includes/scrollbar-option-panel.php:142
+#: includes/scrollbar-option-panel.php:358
+msgid "Scrollbar scroll speed"
+msgstr ""
+
+#: includes/scrollbar-option-panel.php:147
+msgid ""
+"Select scrollbar speed here. Default value is 60. If you increase value, the "
+"scrolling speed will be slower. If you decrease value, scrolling speed will "
+"be faster."
+msgstr ""
+
+#: includes/scrollbar-option-panel.php:153
+#: includes/scrollbar-option-panel.php:385
+msgid "Scrollbar auto hide mode"
+msgstr ""
+
+#: includes/scrollbar-option-panel.php:162
+#: includes/scrollbar-option-panel.php:394
+msgid ""
+"Enable or disable auto-hiding the scrollbar. If you select true will hide "
+"the scrollbar when scrolling is idle and/or cursor is out of the scrolling "
+"area."
+msgstr ""
+
+#: includes/scrollbar-option-panel.php:169
+#: includes/scrollbar-option-panel.php:417
+msgid "Moving mode by keyboard"
+msgstr ""
+
+#: includes/scrollbar-option-panel.php:178
+#: includes/scrollbar-option-panel.php:426
+msgid ""
+"Enable or disable content scrolling via the keyboard. The plugin supports "
+"the directional arrows (top, left, right and down), page-up (PgUp), page-"
+"down (PgDn), Home and End keys."
+msgstr ""
+
+#: includes/scrollbar-option-panel.php:185
+msgid "Show Admin Bar"
+msgstr ""
+
+#: includes/scrollbar-option-panel.php:194
+msgid "You can show or hide admin bar from here."
+msgstr ""
+
+#: includes/scrollbar-option-panel.php:201 includes/scrollbar-shortcode.php:284
+msgid "Nested Shortcode"
+msgstr ""
+
+#: includes/scrollbar-option-panel.php:212
+msgid "How many nested shortcode do you want?"
+msgstr ""
+
+#: includes/scrollbar-option-panel.php:218
+msgid "Custom CSS"
+msgstr ""
+
+#: includes/scrollbar-option-panel.php:223
+msgid ""
+"Here, Type your custom CSS Code, If you want to modify your content "
+"scrollbar style."
+msgstr ""
+
+#: includes/scrollbar-option-panel.php:223
+#: includes/scrollbar-option-panel.php:268
+msgid "Note :"
+msgstr ""
+
+#: includes/scrollbar-option-panel.php:223
+msgid "Paste your CSS code without &lt;style&gt; &lt;/style&gt; block"
+msgstr ""
+
+#: includes/scrollbar-option-panel.php:236
+msgid ""
+"Here, Type your custom selector Class or Id name separate by comma, Like: ."
+"test_class, #test_id, .test_class2, #test_id2"
+msgstr ""
+
+#: includes/scrollbar-option-panel.php:242
+msgid "Scrollbar theme style"
+msgstr ""
+
+#: includes/scrollbar-option-panel.php:253
+msgid ""
+"If you change the list value your scrollbar theme style will change. If your "
+"theme background white or light color you should have select dark theme "
+"style. if you want to see how look like the color demo, just go to this  web "
+"site "
+msgstr ""
+
+#: includes/scrollbar-option-panel.php:253
+msgid "Click here"
+msgstr ""
+
+#: includes/scrollbar-option-panel.php:259 includes/scrollbar-shortcode.php:311
+msgid "Custom Style"
+msgstr ""
+
+#: includes/scrollbar-option-panel.php:268
+msgid "If you want you can add custom style"
+msgstr ""
+
+#: includes/scrollbar-option-panel.php:268
+msgid ""
+"Custom Style will not execute properly when you select \"rounded\" or \"3d\" "
+"ScrollBar theme style from ScrollBar theme style dropdown list. So please "
+"use other theme style when you use custom style"
+msgstr ""
+
+#: includes/scrollbar-option-panel.php:299
+msgid "Dragger rail border radius"
+msgstr ""
+
+#: includes/scrollbar-option-panel.php:304
+msgid "Select dragger rail border radius here. Please use px. Example: 10px"
+msgstr ""
+
+#: includes/scrollbar-option-panel.php:323
+msgid "Dragger bar hover color"
+msgstr ""
+
+#: includes/scrollbar-option-panel.php:330
+msgid ""
+"Select dragger bar hover color here. You can also add html HEX color code."
+msgstr ""
+
+#: includes/scrollbar-option-panel.php:336
+msgid "Dragger bar width"
+msgstr ""
+
+#: includes/scrollbar-option-panel.php:341
+msgid ""
+"Select dragger bar width here. Please use px. Example: 15px. You can add "
+"value 1px to 16px. More than 16px this value will not be execute."
+msgstr ""
+
+#: includes/scrollbar-option-panel.php:363
+msgid ""
+"Select scrollbar speed here. Default value is 400. If you increase value, "
+"the scrolling speed will be slower. If you decrease value, scrolling speed "
+"will be faster."
+msgstr ""
+
+#: includes/scrollbar-option-panel.php:369
+msgid "Showing arrow button"
+msgstr ""
+
+#: includes/scrollbar-option-panel.php:378
+msgid ""
+"If you select False. Arrow button will hide from the up/down or left/right "
+"of scrollbar."
+msgstr ""
+
+#: includes/scrollbar-option-panel.php:401
+msgid "Scrollbar auto expnad mode"
+msgstr ""
+
+#: includes/scrollbar-option-panel.php:410
+msgid ""
+"Enable or disable auto-expanding the scrollbar(s) when cursor is over or "
+"dragging the scrollbar."
+msgstr ""
+
+#: includes/scrollbar-shortcode.php:10
+msgid "Custom Content Scrollbar"
+msgstr ""
+
+#: includes/scrollbar-shortcode.php:31
+msgid "Scrollbar Theme"
+msgstr ""
+
+#: includes/scrollbar-shortcode.php:41 includes/scrollbar-shortcode.php:54
+#: includes/scrollbar-shortcode.php:136 includes/scrollbar-shortcode.php:176
+#: includes/scrollbar-shortcode.php:188 includes/scrollbar-shortcode.php:208
+#: includes/scrollbar-shortcode.php:220 includes/scrollbar-shortcode.php:268
+msgid "Select"
+msgstr ""
+
+#: includes/scrollbar-shortcode.php:50
+msgid "Show arrow button mode"
+msgstr ""
+
+#: includes/scrollbar-shortcode.php:62
+msgid "Set Width"
+msgstr ""
+
+#: includes/scrollbar-shortcode.php:67 includes/scrollbar-shortcode.php:79
+#: includes/scrollbar-shortcode.php:101 includes/scrollbar-shortcode.php:113
+#: includes/scrollbar-shortcode.php:125 includes/scrollbar-shortcode.php:166
+msgid "px"
+msgstr ""
+
+#: includes/scrollbar-shortcode.php:68 includes/scrollbar-shortcode.php:102
+#: includes/scrollbar-shortcode.php:114 includes/scrollbar-shortcode.php:126
+msgid "%"
+msgstr ""
+
+#: includes/scrollbar-shortcode.php:74
+msgid "Set Height"
+msgstr ""
+
+#: includes/scrollbar-shortcode.php:85
+msgid "Responsive Custom Width"
+msgstr ""
+
+#: includes/scrollbar-shortcode.php:89 includes/scrollbar-shortcode.php:288
+msgid "No"
+msgstr ""
+
+#: includes/scrollbar-shortcode.php:90
+msgid "Yes"
+msgstr ""
+
+#: includes/scrollbar-shortcode.php:96
+msgid "Tablet Device Width"
+msgstr ""
+
+#: includes/scrollbar-shortcode.php:108
+msgid "Mobile Device Horizontal"
+msgstr ""
+
+#: includes/scrollbar-shortcode.php:120
+msgid "Mobile Device Vertical"
+msgstr ""
+
+#: includes/scrollbar-shortcode.php:132
+msgid "Show Scrollbar"
+msgstr ""
+
+#: includes/scrollbar-shortcode.php:137 includes/scrollbar-shortcode.php:177
+msgid "Vertically"
+msgstr ""
+
+#: includes/scrollbar-shortcode.php:138 includes/scrollbar-shortcode.php:178
+msgid "Horizontally"
+msgstr ""
+
+#: includes/scrollbar-shortcode.php:139
+msgid "Vertically & Horizontally"
+msgstr ""
+
+#: includes/scrollbar-shortcode.php:145
+msgid "Scroll To Vertically"
+msgstr ""
+
+#: includes/scrollbar-shortcode.php:153
+msgid "Scroll To Horizontally"
+msgstr ""
+
+#: includes/scrollbar-shortcode.php:161
+msgid "Horizontal Div Width"
+msgstr ""
+
+#: includes/scrollbar-shortcode.php:172
+msgid "Mouse Wheel"
+msgstr ""
+
+#: includes/scrollbar-shortcode.php:184
+msgid "Scrollbar Position"
+msgstr ""
+
+#: includes/scrollbar-shortcode.php:189
+msgid "Inside"
+msgstr ""
+
+#: includes/scrollbar-shortcode.php:190
+msgid "Outside"
+msgstr ""
+
+#: includes/scrollbar-shortcode.php:196
+msgid "Scrollbar Speed"
+msgstr ""
+
+#: includes/scrollbar-shortcode.php:204
+msgid "Auto hide mode"
+msgstr ""
+
+#: includes/scrollbar-shortcode.php:216
+msgid "Auto expand mode"
+msgstr ""
+
+#: includes/scrollbar-shortcode.php:228
+msgid "Upload Type"
+msgstr ""
+
+#: includes/scrollbar-shortcode.php:232
+msgid "Content"
+msgstr ""
+
+#: includes/scrollbar-shortcode.php:233
+msgid "Gallery"
+msgstr ""
+
+#: includes/scrollbar-shortcode.php:239
+msgid "Upload Gallery"
+msgstr ""
+
+#: includes/scrollbar-shortcode.php:248
+msgid "Text Content"
+msgstr ""
+
+#: includes/scrollbar-shortcode.php:256
+msgid "Scroll Amount"
+msgstr ""
+
+#: includes/scrollbar-shortcode.php:264
+msgid "RTL Direction"
+msgstr ""
+
+#: includes/scrollbar-shortcode.php:276
+msgid "Add custom class for CSS"
+msgstr ""
+
+#: includes/scrollbar-shortcode.php:291
+msgid "Two"
+msgstr ""
+
+#: includes/scrollbar-shortcode.php:292
+msgid "Three"
+msgstr ""
+
+#: includes/scrollbar-shortcode.php:293
+msgid "Four"
+msgstr ""
+
+#: includes/scrollbar-shortcode.php:294
+msgid "Five"
+msgstr ""
+
+#: includes/scrollbar-shortcode.php:295
+msgid "Six"
+msgstr ""
+
+#: includes/scrollbar-shortcode.php:296
+msgid "Seven"
+msgstr ""
+
+#: includes/scrollbar-shortcode.php:297
+msgid "Eight"
+msgstr ""
+
+#: includes/scrollbar-shortcode.php:298
+msgid "Nine"
+msgstr ""
+
+#: includes/scrollbar-shortcode.php:299
+msgid "Ten"
+msgstr ""
+
+#: includes/scrollbar-shortcode.php:322
+msgid "Dragger Rail Color (HEX)"
+msgstr ""
+
+#: includes/scrollbar-shortcode.php:335
+msgid "Dragger Rail Width"
+msgstr ""
+
+#: includes/scrollbar-shortcode.php:343
+msgid "Dragger Rail Border Radius"
+msgstr ""
+
+#: includes/scrollbar-shortcode.php:351
+msgid "Dragger Bar Color (HEX)"
+msgstr ""
+
+#: includes/scrollbar-shortcode.php:364
+msgid "Dragger Bar Width"
+msgstr ""
+
+#: includes/scrollbar-shortcode.php:372
+msgid "Dragger Bar Border Radius"
+msgstr ""
+
+#: includes/scrollbar-shortcode.php:380
+msgid "Dragger Bar Hover Color"
+msgstr ""
+
+#: includes/scrollbar-shortcode.php:393
+msgid "Dragger Horizontal Rail Margin"
+msgstr ""
+
+#: includes/scrollbar-shortcode.php:401
+msgid "Dragger Horizontal Bar Margin"
+msgstr ""
+
+#: includes/scrollbar-shortcode.php:410
+msgid "Insert Shortcode"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://custom-content-scrollbar.softhopper.net/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"This plugin will enable custom scrollbar in your WordPress site. You can "
+"also add custom scrollbar in your post, page etc. And can also change "
+"scrollbar theme & other setting from <a href=\"options-general.php?page=sh-"
+"custom-scrollbar-settings\">Option Panel</a>"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "SoftHopper"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://softhopper.net"
+msgstr ""

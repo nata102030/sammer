@@ -1,0 +1,22 @@
+{
+    "name": "acf/leistungen-list",
+    "title": "Leistungen liste",
+    "description": "Leistungen liste.",
+    "category": "sonder",
+    "icon": "admin-comments",
+    "keywords": [
+        "text"
+    ],
+    "acf": {
+        "mode": "edit",
+        "renderTemplate": "leistungen-list.php"
+    },
+    "example": {
+        "attributes": {
+            "mode": "preview",
+            "data": {
+                "gutenberg_preview_image": true
+            }
+        }
+    }
+}

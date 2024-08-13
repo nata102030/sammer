@@ -1,0 +1,188 @@
+.leistungen-list {
+  .container {  
+    .wrap {
+      &__title {
+        color: $color__blau;
+        font-size: 18px;
+        font-weight: 400;
+        line-height: 160%;
+        display: flex;
+        gap: 5px;
+        align-items: center;
+      }
+
+      .line {
+        width: 100%;
+        height: 1px;
+        background: $color__grau;
+        margin-top: 8px;
+      }
+
+      &__subtitle,
+      &__subtitle_mobil {
+        color: $color__dunkelblau;
+        font-size: 40px;
+        font-weight: 400;
+        line-height: 140%;
+        margin-top: 24px;
+
+        @media (max-width: $md) {
+          font-size: 24px;
+        }
+
+        span {
+          color: $color__blau;
+          font-size: 40px;
+          font-weight: 400;
+          line-height: 140%;
+
+          @media (max-width: $md) {
+            font-size: 24px;
+          }
+        }
+      }
+
+      &__subtitle {
+        display: block;
+
+        @media (max-width: $md) {
+          display: none;
+        }
+      }
+
+      &__subtitle_mobil {
+        display: none;
+
+        @media (max-width: $md) {
+          display: block;
+        }
+      }
+
+      .postsList {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 24px;
+        margin-top: 40px;
+
+        @media (max-width: $md) {
+          margin-top: 32px;
+        }
+      }
+    }
+  }
+
+  .Dunkelgrau {
+    .postItem {
+      background: $color__neutral-grau;
+
+      .item-name h3,
+      .btn_circle {
+        color: #fff;
+      }
+
+      .item-text {
+        color: $color__blau;
+      }
+
+
+      .line {
+        display: none;
+      }
+
+      .item-name h3{
+        font-size: 40px;
+
+        @media (max-width: $md) {
+          font-size: 24px;
+        }
+      }
+
+      .item-text {
+        margin: 40px;
+        max-width: 530px;
+
+        @media (max-width: $lg) {
+          max-width: none;
+        }
+      }
+
+      .leistungen-img {
+       // height: 380px;
+
+        @media (max-width: $md) {
+        //  height: 280px;
+        }
+
+        @media (max-width: $sm) {
+       //   height: 199px;
+        }
+
+        img {
+          -o-object-fit: cover;
+          object-fit: cover;
+          height: 100%;
+        }
+      }
+    }
+
+    .btn_circle {
+      path {
+        fill: $color__white !important;
+      }
+    }
+  }
+
+  .Blau {
+    .postItem {
+      background: #133b89;
+    }
+
+    .item-name h3,
+    .item-text .btn_circle {
+      color: #fff;
+    }
+
+    .item-text .btn_circle svg path {
+      fill: #fff;
+    }
+
+    .line {
+      display: none;
+    }
+
+    .item-name h3{
+      font-size: 40px;
+
+      @media (max-width: $md) {
+        font-size: 24px;
+      }
+    }
+
+    .item-text {
+      margin: 40px;
+      max-width: 530px;
+
+      @media (max-width: $lg) {
+        max-width: none;
+      }
+    }
+
+    .leistungen-img {
+     // height: 380px;
+
+      @media (max-width: $md) {
+     //   height: 280px;
+      }
+
+      @media (max-width: $sm) {
+      //  height: 199px;
+      }
+
+      img {
+        -o-object-fit: cover;
+        object-fit: cover;
+        height: 100%;
+      }
+    }
+  }
+}

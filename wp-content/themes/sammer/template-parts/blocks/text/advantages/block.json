@@ -1,0 +1,22 @@
+{
+    "name": "acf/advantages",
+    "title": "Vorteile",
+    "description": "Vorteile.",
+    "category": "text-modules",
+    "icon": "admin-comments",
+    "keywords": [
+        "text"
+    ],
+    "acf": {
+        "mode": "edit",
+        "renderTemplate": "advantages.php"
+    },
+    "example": {
+        "attributes": {
+            "mode": "preview",
+            "data": {
+                "gutenberg_preview_image": true
+            }
+        }
+    }
+}

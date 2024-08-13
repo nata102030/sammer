@@ -1,0 +1,22 @@
+{
+    "name": "acf/top-page-banner",
+    "title": "Banner auf der obersten Seite",
+    "description": "Banner auf der obersten Seite.",
+    "category": "text-images-modules",
+    "icon": "admin-comments",
+    "keywords": [
+        "banner"
+    ],
+    "acf": {
+        "mode": "edit",
+        "renderTemplate": "top-page-banner.php"
+    },
+    "example": {
+        "attributes": {
+            "mode": "preview",
+            "data": {
+                "gutenberg_preview_image": true
+            }
+        }
+    }
+}

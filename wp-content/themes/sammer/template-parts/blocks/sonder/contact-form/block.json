@@ -1,0 +1,22 @@
+{
+    "name": "acf/contact-form",
+    "title": "Kontakt Formular",
+    "description": "Kontakt Formular.",
+    "category": "sonder",
+    "icon": "admin-comments",
+    "keywords": [
+        "formular"
+    ],
+    "acf": {
+        "mode": "edit",
+        "renderTemplate": "contact-form.php"
+    },
+    "example": {
+        "attributes": {
+            "mode": "preview",
+            "data": {
+                "gutenberg_preview_image": true
+            }
+        }
+    }
+}

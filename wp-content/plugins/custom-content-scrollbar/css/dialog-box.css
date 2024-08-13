@@ -1,0 +1,140 @@
+.scrollbar-shrotcode-container-area {
+    display: none;
+}
+.scrollbar-shrotcode-container-area:before {
+    content: "";
+    background: rgba(0,0,0,0.7);
+    left: 0;
+    right: 0;
+    bottom: 0;
+    top: 0;
+    z-index: 99999;
+    position: fixed;
+}
+.scrollbar-shrotcode-container {
+  max-width: 500px;
+  z-index: 99999;
+  position: fixed;
+  background: white;
+  left: 0;
+  right: 0;
+  margin: auto;
+  top: 50%;
+  transform: translateX;
+  transform: translateY(-50%); 
+  border: 1px solid #dfdfdf; 
+  overflow: hidden;
+}
+.scrollbar-shrotcode-container .wp-picker-clear {
+    width: 64px;
+}
+.scrollbar-shortcode-close span {
+    font-size: 20px;
+    font-weight: bold;
+    padding: 9px 12px;
+    cursor: pointer;
+    display: inline-block;
+    color: #a0a5aa;
+}
+.scrollbar-shortcode-close span:hover {
+    color: #555;
+}
+.scrollbar-shortcode-close {
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+.scrollbar-shrotcode-title {
+    padding: 10px 20px;
+    border-bottom: 1px solid #dfdfdf;
+}
+.scrollbar-shrotcode-title h2{
+    margin: 0;
+    padding: 0;
+}
+.scrollbar-shortcode-content {
+    max-height: 350px;
+    padding: 10px;
+    padding-left: 15px;
+    overflow-x: hidden;
+    overflow-y: scroll;
+}
+.scrollbar-shortcode-content label {
+    font-weight: normal;
+}
+.scrollbar-shortcode-content tr th {
+    width: 40%;
+}
+.scrollbar-shortcode-content tr td {
+    width: 60%;
+}
+.scrollbar-shortcode-content tr th{
+    text-align: left;
+}
+.scrollbar-shortcode-content table {
+    border-collapse: separate;
+    border-spacing: 0 6px;
+    width: 100%;
+}
+.scrollbar-shortcode-content input, .scrollbar-shortcode-content select, .scrollbar-shortcode-content textarea {
+    width: 100%;
+}
+.scrollbar-shortcode-content input.unit-field {
+    width: 67%;
+}
+.scrollbar-shortcode-content select.unit-type {
+    width: 30%;
+    position: relative;
+    top: -2px;
+    height: 27px;
+}
+.scrollbar-shortcode-insert {
+    padding: 10px;
+    border-top: 1px solid #dfdfdf;
+    text-align: right;
+}
+.scrollbar-shortcode-insert button {
+    margin-right: 8px;
+}
+input:focus, select:focus {
+    outline: none;
+}
+#insert-scrollbar-shortcode .dashicons-controls-pause {
+    display: inline-block;
+    width: 18px;
+    height: 18px;
+    vertical-align: text-top;
+    margin: 0 2px;
+}
+#upload_image_button {
+    background: #f1f1f1;
+    border: 1px solid #dfdfdf;
+    font-weight: bfg;
+    margin-bottom: 2px;
+    cursor: pointer;
+}
+#upload_image_button + #uploaded-images .single-image {
+    margin: 4px;
+    margin-bottom: 0;
+    position: relative;
+    float: left;
+}
+#upload_image_button + #uploaded-images .single-image img {
+    width: 60px;
+    height: 50px;
+}
+#upload_image_button + #uploaded-images .single-image span.dashicons {
+    position: absolute;
+    color: white;
+    top: 0px;
+    right: 0;
+    cursor: pointer;
+    z-index: 999;
+    background: #4c4c4c;
+    font-size: 18px;
+    padding: 0px;
+    line-height: 20px;
+}
+
+
+    

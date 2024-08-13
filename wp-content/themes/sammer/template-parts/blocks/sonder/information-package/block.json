@@ -1,0 +1,22 @@
+{
+    "name": "acf/information-package",
+    "title": "Infopaket",
+    "description": "Infopaket.",
+    "category": "sonder",
+    "icon": "admin-comments",
+    "keywords": [
+        "infopaket"
+    ],
+    "acf": {
+        "mode": "edit",
+        "renderTemplate": "information-package.php"
+    },
+    "example": {
+        "attributes": {
+            "mode": "preview",
+            "data": {
+                "gutenberg_preview_image": true
+            }
+        }
+    }
+}

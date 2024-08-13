@@ -1,0 +1,48 @@
+button,
+input[type="button"],
+input[type="reset"],
+input[type="submit"] {
+  //border: 1px solid;
+  //border-color: $color__border-button;
+  //border-radius: 3px;
+  //background: $color__background-button;
+  //color: rgba(0, 0, 0, 0.8);
+  //line-height: 1;
+  //padding: 0.6em 1em 0.4em;
+  //
+  //&:hover {
+  //	border-color: $color__border-button-hover;
+  //}
+  //
+  //&:active,
+  //&:focus {
+  //	border-color: $color__border-button-focus;
+  //}
+}
+  
+.btn_circle {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 160%;
+  text-transform: uppercase;
+  color: $color__white;
+  transition: text-shadow 0.4s ease;
+
+  @media (max-width: $md) {
+    font-size: 16px;
+  }
+
+  &:hover{  
+    @media (min-width: $sm) {
+     // font-weight: 700;
+    
+      //text-shadow: 1px 1px 2px currentColor;
+      text-shadow: 1px 0 0 currentColor;
+        transition: text-shadow 0.4s ease;
+    }
+}
+}
+

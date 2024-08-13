@@ -1,0 +1,22 @@
+{
+    "name": "acf/secret-ivestments",
+    "title": "Secret Ivestments",
+    "description": "Secret Ivestments",
+    "category": "text-images-modules",
+    "icon": "admin-comments",
+    "keywords": [
+        "ivestments"
+    ],
+    "acf": {
+        "mode": "edit",
+        "renderTemplate": "secret-ivestments.php"
+    },
+    "example": {
+        "attributes": {
+            "mode": "preview",
+            "data": {
+                "gutenberg_preview_image": true
+            }
+        }
+    }
+}

@@ -1,0 +1,46 @@
+
+@import "header";
+@import "footer";
+@import "blocks/text-images/top-page-banner";
+@import "blocks/text/text-two-columns";
+@import "blocks/text-images/image-text-colums";
+@import "blocks/text/advantages";
+@import "blocks/text-images/cta-1";
+@import "blocks/sonder/leistungen-list";
+@import "content/leistungen-post";
+@import "blocks/text/cta-2";
+@import "blocks/text-images/secret-ivestments";
+@import "blocks/text/slider-numbers";
+@import "blocks/sonder/list-cpt";
+@import "content/cpt-post";
+@import "blocks/text-images/benefits";
+@import "blocks/text-images/awards";
+@import "blocks/sonder/references";
+@import "content/references-post";
+@import "blocks/text-images/slider-image-text";
+@import "blocks/sonder/contact-form";
+@import "blocks/sonder/information-package";
+@import "blocks/text/text";
+@import "widgets/print";
+  
+* {
+    outline: none;
+}
+h1, h2, h3, h4, h5, h6, p{
+  margin: 0;
+}
+p{
+  margin-bottom: 0;
+}
+
+.container{
+  margin: 0 auto;
+  padding: 0 36px;
+  max-width: 1440px;
+
+  @media(max-width: $md) {
+    padding: 0 31px;
+  }
+}
+
+

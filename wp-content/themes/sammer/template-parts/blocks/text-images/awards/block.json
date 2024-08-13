@@ -1,0 +1,22 @@
+{
+    "name": "acf/awards",
+    "title": "Auszeichnungen",
+    "description": "Auszeichnungen",
+    "category": "text-images-modules",
+    "icon": "admin-comments",
+    "keywords": [
+        "awards"
+    ],
+    "acf": {
+        "mode": "edit",
+        "renderTemplate": "awards.php"
+    },
+    "example": {
+        "attributes": {
+            "mode": "preview",
+            "data": {
+                "gutenberg_preview_image": true
+            }
+        }
+    }
+}

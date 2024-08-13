@@ -1,0 +1,22 @@
+{
+    "name": "acf/cta-2",
+    "title": "CTA-2",
+    "description": "CTA-2",
+    "category": "text-modules",
+    "icon": "admin-comments",
+    "keywords": [
+        "cta"
+    ],
+    "acf": {
+        "mode": "edit",
+        "renderTemplate": "cta-2.php"
+    },
+    "example": {
+        "attributes": {
+            "mode": "preview",
+            "data": {
+                "gutenberg_preview_image": true
+            }
+        }
+    }
+}

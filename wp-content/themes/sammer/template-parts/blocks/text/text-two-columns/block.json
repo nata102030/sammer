@@ -1,0 +1,22 @@
+{
+    "name": "acf/text-two-columns",
+    "title": "Text two columns",
+    "description": "Text two columns.",
+    "category": "text-modules",
+    "icon": "admin-comments",
+    "keywords": [
+        "text"
+    ],
+    "acf": {
+        "mode": "edit",
+        "renderTemplate": "text-two-columns.php"
+    },
+    "example": {
+        "attributes": {
+            "mode": "preview",
+            "data": {
+                "gutenberg_preview_image": true
+            }
+        }
+    }
+}

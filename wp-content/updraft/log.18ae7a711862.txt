@@ -1,0 +1,1569 @@
+0000.001 (0) Opened log file at time: Mon, 12 Aug 2024 08:02:06 +0000 on http://zadanie26
+0000.005 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.23.13 WP: 6.6.1 PHP: 7.4.27 (apache2handler, Windows NT DESKTOP-B4BGN4O 10.0 build 19045 (Windows 10) AMD64) MySQL: 8.0.24 (max packet size=268435456) WPLANG: de_DE Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 1536M (used: 73M | 8M) multisite: N openssl: OpenSSL 1.1.1l  24 Aug 2021 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.008 (0) Free space on disk containing Updraft's temporary directory: 67788.2 MB
+0000.015 (0) Tasks: Backup files: 1 (schedule: weekly) Backup DB:  (schedule: daily)
+0000.018 (0) Processed schedules. Tasks now: Backup files: 1 Backup DB: 
+0000.024 (0) Requesting semaphore lock (f) (apparently via scheduler: last_scheduled_action_called_at=1722831157, seconds_ago=618569)
+0000.037 (0) Set semaphore last lock (f) time to 2024-08-12 08:02:06
+0000.040 (0) Semaphore lock (f) complete
+0000.053 (0) Backup run: resumption=0, nonce=18ae7a711862, file_nonce=18ae7a711862 begun at=1723449726 (0s ago), job type=backup
+0000.056 (0) Scheduling a resumption (1) after 300 seconds (1723450026) in case this run gets aborted
+0000.063 (0) Checking if we have a zip executable available
+0000.070 (0) Creation of backups of directories: beginning
+0000.081 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0003.418 (0) Total entities for the zip file: 1209 directories, 6652 files (0 skipped as non-modified), 91.2 MB
+0003.443 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 1 (1) files added so far); re-opening (prior size: 0 KB)
+0003.658 (0) Zip: backup_2024-08-12-1002_Sammer_18ae7a711862-plugins.zip.tmp: 100 files added (on-disk size: 224.6 KB)
+0003.700 (0) Zip: backup_2024-08-12-1002_Sammer_18ae7a711862-plugins.zip.tmp: 200 files added (on-disk size: 224.6 KB)
+0003.738 (0) Zip: backup_2024-08-12-1002_Sammer_18ae7a711862-plugins.zip.tmp: 300 files added (on-disk size: 224.6 KB)
+0003.778 (0) Zip: backup_2024-08-12-1002_Sammer_18ae7a711862-plugins.zip.tmp: 400 files added (on-disk size: 224.6 KB)
+0003.817 (0) Zip: backup_2024-08-12-1002_Sammer_18ae7a711862-plugins.zip.tmp: 500 files added (on-disk size: 224.6 KB)
+0003.861 (0) Zip: backup_2024-08-12-1002_Sammer_18ae7a711862-plugins.zip.tmp: 600 files added (on-disk size: 224.6 KB)
+0003.908 (0) Zip: backup_2024-08-12-1002_Sammer_18ae7a711862-plugins.zip.tmp: 700 files added (on-disk size: 224.6 KB)
+0003.961 (0) Zip: backup_2024-08-12-1002_Sammer_18ae7a711862-plugins.zip.tmp: 800 files added (on-disk size: 224.6 KB)
+0003.993 (0) Zip: backup_2024-08-12-1002_Sammer_18ae7a711862-plugins.zip.tmp: 900 files added (on-disk size: 224.6 KB)
+0004.026 (0) Zip: backup_2024-08-12-1002_Sammer_18ae7a711862-plugins.zip.tmp: 1000 files added (on-disk size: 224.6 KB)
+0004.029 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (23.9 MB, 6652 files batched, 1001 (1002) added so far); re-opening (prior size: 224.6 KB)
+0022.102 (0) Zip: backup_2024-08-12-1002_Sammer_18ae7a711862-plugins.zip.tmp: 1100 files added (on-disk size: 7869.7 KB)
+0022.145 (0) Zip: backup_2024-08-12-1002_Sammer_18ae7a711862-plugins.zip.tmp: 1200 files added (on-disk size: 7869.7 KB)
+0022.176 (0) Zip: backup_2024-08-12-1002_Sammer_18ae7a711862-plugins.zip.tmp: 1300 files added (on-disk size: 7869.7 KB)
+0022.206 (0) Zip: backup_2024-08-12-1002_Sammer_18ae7a711862-plugins.zip.tmp: 1400 files added (on-disk size: 7869.7 KB)
+0022.234 (0) Zip: backup_2024-08-12-1002_Sammer_18ae7a711862-plugins.zip.tmp: 1500 files added (on-disk size: 7869.7 KB)
+0022.263 (0) Zip: backup_2024-08-12-1002_Sammer_18ae7a711862-plugins.zip.tmp: 1600 files added (on-disk size: 7869.7 KB)
+0022.291 (0) Zip: backup_2024-08-12-1002_Sammer_18ae7a711862-plugins.zip.tmp: 1700 files added (on-disk size: 7869.7 KB)
+0022.317 (0) Zip: backup_2024-08-12-1002_Sammer_18ae7a711862-plugins.zip.tmp: 1800 files added (on-disk size: 7869.7 KB)
+0022.345 (0) Zip: backup_2024-08-12-1002_Sammer_18ae7a711862-plugins.zip.tmp: 1900 files added (on-disk size: 7869.7 KB)
+0022.395 (0) Zip: backup_2024-08-12-1002_Sammer_18ae7a711862-plugins.zip.tmp: 2000 files added (on-disk size: 7869.7 KB)
+0022.400 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (11.9 MB, 6652 files batched, 1001 (2003) added so far); re-opening (prior size: 7869.7 KB)
+0057.273 (0) Zip: backup_2024-08-12-1002_Sammer_18ae7a711862-plugins.zip.tmp: 2100 files added (on-disk size: 11980.1 KB)
+0057.308 (0) Zip: backup_2024-08-12-1002_Sammer_18ae7a711862-plugins.zip.tmp: 2200 files added (on-disk size: 11980.1 KB)
+0057.335 (0) Zip: backup_2024-08-12-1002_Sammer_18ae7a711862-plugins.zip.tmp: 2300 files added (on-disk size: 11980.1 KB)
+0057.361 (0) Zip: backup_2024-08-12-1002_Sammer_18ae7a711862-plugins.zip.tmp: 2400 files added (on-disk size: 11980.1 KB)
+0057.389 (0) Zip: backup_2024-08-12-1002_Sammer_18ae7a711862-plugins.zip.tmp: 2500 files added (on-disk size: 11980.1 KB)
+0057.415 (0) Zip: backup_2024-08-12-1002_Sammer_18ae7a711862-plugins.zip.tmp: 2600 files added (on-disk size: 11980.1 KB)
+0057.442 (0) Zip: backup_2024-08-12-1002_Sammer_18ae7a711862-plugins.zip.tmp: 2700 files added (on-disk size: 11980.1 KB)
+0057.471 (0) Zip: backup_2024-08-12-1002_Sammer_18ae7a711862-plugins.zip.tmp: 2800 files added (on-disk size: 11980.1 KB)
+0057.499 (0) Zip: backup_2024-08-12-1002_Sammer_18ae7a711862-plugins.zip.tmp: 2900 files added (on-disk size: 11980.1 KB)
+0057.531 (0) Zip: backup_2024-08-12-1002_Sammer_18ae7a711862-plugins.zip.tmp: 3000 files added (on-disk size: 11980.1 KB)
+0057.536 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (9.9 MB, 6652 files batched, 1001 (3004) added so far); re-opening (prior size: 11980.1 KB)
+0072.875 (0) Zip: backup_2024-08-12-1002_Sammer_18ae7a711862-plugins.zip.tmp: 3100 files added (on-disk size: 15268.2 KB)
+0072.904 (0) Zip: backup_2024-08-12-1002_Sammer_18ae7a711862-plugins.zip.tmp: 3200 files added (on-disk size: 15268.2 KB)
+0072.932 (0) Zip: backup_2024-08-12-1002_Sammer_18ae7a711862-plugins.zip.tmp: 3300 files added (on-disk size: 15268.2 KB)
+0072.960 (0) Zip: backup_2024-08-12-1002_Sammer_18ae7a711862-plugins.zip.tmp: 3400 files added (on-disk size: 15268.2 KB)
+0072.993 (0) Zip: backup_2024-08-12-1002_Sammer_18ae7a711862-plugins.zip.tmp: 3500 files added (on-disk size: 15268.2 KB)
+0073.028 (0) Zip: backup_2024-08-12-1002_Sammer_18ae7a711862-plugins.zip.tmp: 3600 files added (on-disk size: 15268.2 KB)
+0073.064 (0) Zip: backup_2024-08-12-1002_Sammer_18ae7a711862-plugins.zip.tmp: 3700 files added (on-disk size: 15268.2 KB)
+0073.097 (0) Zip: backup_2024-08-12-1002_Sammer_18ae7a711862-plugins.zip.tmp: 3800 files added (on-disk size: 15268.2 KB)
+0073.128 (0) Zip: backup_2024-08-12-1002_Sammer_18ae7a711862-plugins.zip.tmp: 3900 files added (on-disk size: 15268.2 KB)
+0073.167 (0) Zip: backup_2024-08-12-1002_Sammer_18ae7a711862-plugins.zip.tmp: 4000 files added (on-disk size: 15268.2 KB)
+0073.172 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (21.5 MB, 6652 files batched, 1001 (4005) added so far); re-opening (prior size: 15268.2 KB)
+0103.233 (0) Zip: backup_2024-08-12-1002_Sammer_18ae7a711862-plugins.zip.tmp: 4100 files added (on-disk size: 21162.6 KB)
+0103.263 (0) Zip: backup_2024-08-12-1002_Sammer_18ae7a711862-plugins.zip.tmp: 4200 files added (on-disk size: 21162.6 KB)
+0103.297 (0) Zip: backup_2024-08-12-1002_Sammer_18ae7a711862-plugins.zip.tmp: 4300 files added (on-disk size: 21162.6 KB)
+0103.331 (0) Zip: backup_2024-08-12-1002_Sammer_18ae7a711862-plugins.zip.tmp: 4400 files added (on-disk size: 21162.6 KB)
+0103.364 (0) Zip: backup_2024-08-12-1002_Sammer_18ae7a711862-plugins.zip.tmp: 4500 files added (on-disk size: 21162.6 KB)
+0103.397 (0) Zip: backup_2024-08-12-1002_Sammer_18ae7a711862-plugins.zip.tmp: 4600 files added (on-disk size: 21162.6 KB)
+0103.426 (0) Zip: backup_2024-08-12-1002_Sammer_18ae7a711862-plugins.zip.tmp: 4700 files added (on-disk size: 21162.6 KB)
+0103.458 (0) Zip: backup_2024-08-12-1002_Sammer_18ae7a711862-plugins.zip.tmp: 4800 files added (on-disk size: 21162.6 KB)
+0103.490 (0) Zip: backup_2024-08-12-1002_Sammer_18ae7a711862-plugins.zip.tmp: 4900 files added (on-disk size: 21162.6 KB)
+0103.519 (0) Zip: backup_2024-08-12-1002_Sammer_18ae7a711862-plugins.zip.tmp: 5000 files added (on-disk size: 21162.6 KB)
+0103.522 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (12.9 MB, 6652 files batched, 1001 (5006) added so far); re-opening (prior size: 21162.6 KB)
+0120.728 (0) Zip: backup_2024-08-12-1002_Sammer_18ae7a711862-plugins.zip.tmp: 5100 files added (on-disk size: 25020.3 KB)
+0120.778 (0) Zip: backup_2024-08-12-1002_Sammer_18ae7a711862-plugins.zip.tmp: 5200 files added (on-disk size: 25020.3 KB)
+0120.807 (0) Zip: backup_2024-08-12-1002_Sammer_18ae7a711862-plugins.zip.tmp: 5300 files added (on-disk size: 25020.3 KB)
+0120.833 (0) Zip: backup_2024-08-12-1002_Sammer_18ae7a711862-plugins.zip.tmp: 5400 files added (on-disk size: 25020.3 KB)
+0120.861 (0) Zip: backup_2024-08-12-1002_Sammer_18ae7a711862-plugins.zip.tmp: 5500 files added (on-disk size: 25020.3 KB)
+0120.890 (0) Zip: backup_2024-08-12-1002_Sammer_18ae7a711862-plugins.zip.tmp: 5600 files added (on-disk size: 25020.3 KB)
+0120.915 (0) Zip: backup_2024-08-12-1002_Sammer_18ae7a711862-plugins.zip.tmp: 5700 files added (on-disk size: 25020.3 KB)
+0120.942 (0) Zip: backup_2024-08-12-1002_Sammer_18ae7a711862-plugins.zip.tmp: 5800 files added (on-disk size: 25020.3 KB)
+0120.969 (0) Zip: backup_2024-08-12-1002_Sammer_18ae7a711862-plugins.zip.tmp: 5900 files added (on-disk size: 25020.3 KB)
+0120.994 (0) Zip: backup_2024-08-12-1002_Sammer_18ae7a711862-plugins.zip.tmp: 6000 files added (on-disk size: 25020.3 KB)
+0121.000 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (7 MB, 6652 files batched, 1001 (6007) added so far); re-opening (prior size: 25020.3 KB)
+0144.727 (0) Zip: backup_2024-08-12-1002_Sammer_18ae7a711862-plugins.zip.tmp: 6100 files added (on-disk size: 27197.6 KB)
+0144.753 (0) Zip: backup_2024-08-12-1002_Sammer_18ae7a711862-plugins.zip.tmp: 6200 files added (on-disk size: 27197.6 KB)
+0144.782 (0) Zip: backup_2024-08-12-1002_Sammer_18ae7a711862-plugins.zip.tmp: 6300 files added (on-disk size: 27197.6 KB)
+0144.809 (0) Zip: backup_2024-08-12-1002_Sammer_18ae7a711862-plugins.zip.tmp: 6400 files added (on-disk size: 27197.6 KB)
+0144.834 (0) Zip: backup_2024-08-12-1002_Sammer_18ae7a711862-plugins.zip.tmp: 6500 files added (on-disk size: 27197.6 KB)
+0144.860 (0) Zip: backup_2024-08-12-1002_Sammer_18ae7a711862-plugins.zip.tmp: 6600 files added (on-disk size: 27197.6 KB)
+0160.068 (0) Creating zip file manifest (backup_2024-08-12-1002_Sammer_18ae7a711862-plugins.zip.list-temp.tmp)
+0160.101 (0) Successfully created zip file manifest (size: 586781)
+0160.525 (0) Created plugins zip (0) - 29190.5 KB in 160.4 s (182 KB/s) (sha1: 7a46f4fdb8d35a6f57756796af7f65fd8758ce36, sha256: 5debde7e1a10300979dbcce011b3005e54ba1141bda77421d2aa8a786540b6ea)
+0160.541 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0160.544 (0) No remote despatch: user chose no remote backup service
+0160.547 (0) Recording as successfully uploaded: backup_2024-08-12-1002_Sammer_18ae7a711862-plugins.zip
+0160.552 (0) Deleting zip manifest (backup_2024-08-12-1002_Sammer_18ae7a711862-plugins.zip.list.tmp)
+0160.558 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=4, retain_db=30
+0160.563 (0) Number of backup sets in history: 33; groups (db): 1
+0160.566 (0) Examining (for databases) backup set with group_id=0, nonce=8e671b236e46, datestamp=1723449703 (Aug 12 2024 08:01:43)
+0160.569 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0160.571 (0) Examining (for databases) backup set with group_id=0, nonce=37c8f34776ea, datestamp=1722831279 (Aug 05 2024 04:14:39)
+0160.572 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0160.572 (0) Examining (for databases) backup set with group_id=0, nonce=37f887823297, datestamp=1722831157 (Aug 05 2024 04:12:37)
+0160.572 (0) Examining (for databases) backup set with group_id=0, nonce=0643d3092e89, datestamp=1722828837 (Aug 05 2024 03:33:57)
+0160.572 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0160.572 (0) Examining (for databases) backup set with group_id=0, nonce=e7bee3f2fb39, datestamp=1722828595 (Aug 05 2024 03:29:55)
+0160.572 (0) Examining (for databases) backup set with group_id=0, nonce=7b58faf10bca, datestamp=1719916482 (Jul 02 2024 10:34:42)
+0160.572 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0160.572 (0) Examining (for databases) backup set with group_id=0, nonce=a168214e68e7, datestamp=1718851381 (Jun 20 2024 02:43:01)
+0160.572 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0160.575 (0) Examining (for databases) backup set with group_id=0, nonce=0bbed33d5f96, datestamp=1718851065 (Jun 20 2024 02:37:45)
+0160.575 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0160.577 (0) Examining (for databases) backup set with group_id=0, nonce=4d8d6a6a1b67, datestamp=1718850976 (Jun 20 2024 02:36:16)
+0160.577 (0) Examining (for databases) backup set with group_id=0, nonce=61d2771af1c0, datestamp=1717947376 (Jun 09 2024 15:36:16)
+0160.577 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0160.578 (0) Examining (for databases) backup set with group_id=0, nonce=5847dbea7c08, datestamp=1717861252 (Jun 08 2024 15:40:52)
+0160.578 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0160.578 (0) Examining (for databases) backup set with group_id=0, nonce=92572e18c988, datestamp=1717732550 (Jun 07 2024 03:55:50)
+0160.578 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0160.578 (0) Examining (for databases) backup set with group_id=0, nonce=f009c121e9a2, datestamp=1717650150 (Jun 06 2024 05:02:30)
+0160.578 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0160.578 (0) Examining (for databases) backup set with group_id=0, nonce=4972e8c7fe3e, datestamp=1717255472 (Jun 01 2024 15:24:32)
+0160.578 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0160.578 (0) Examining (for databases) backup set with group_id=0, nonce=0ffffb433736, datestamp=1717142135 (May 31 2024 07:55:35)
+0160.578 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0160.578 (0) Examining (for databases) backup set with group_id=0, nonce=99642449f11c, datestamp=1717045234 (May 30 2024 05:00:34)
+0160.578 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0160.578 (0) Examining (for databases) backup set with group_id=0, nonce=5145b0574902, datestamp=1714965929 (May 06 2024 03:25:29)
+0160.578 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0160.578 (0) Examining (for databases) backup set with group_id=0, nonce=dcd236fa2567, datestamp=1714806434 (May 04 2024 07:07:14)
+0160.578 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0160.579 (0) Examining (for databases) backup set with group_id=0, nonce=bd14320eeae5, datestamp=1714720293 (May 03 2024 07:11:33)
+0160.579 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0160.579 (0) Examining (for databases) backup set with group_id=0, nonce=27850c4f68b6, datestamp=1711775027 (Mar 30 2024 05:03:47)
+0160.579 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0160.579 (0) Examining (for databases) backup set with group_id=0, nonce=1198ca9caf8a, datestamp=1711733007 (Mar 29 2024 17:23:27)
+0160.579 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0160.579 (0) Examining (for databases) backup set with group_id=0, nonce=1050e4030ff8, datestamp=1709302467 (Mar 01 2024 14:14:27)
+0160.579 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0160.579 (0) Examining (for databases) backup set with group_id=0, nonce=2d62ac4e78f6, datestamp=1709178966 (Feb 29 2024 03:56:06)
+0160.579 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0160.579 (0) Examining (for databases) backup set with group_id=0, nonce=163ae6dff14c, datestamp=1709126220 (Feb 28 2024 13:17:00)
+0160.579 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0160.579 (0) Examining (for databases) backup set with group_id=0, nonce=bab510e6b628, datestamp=1709106003 (Feb 28 2024 07:40:03)
+0160.579 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0160.579 (0) Examining (for databases) backup set with group_id=0, nonce=ef2516e00c73, datestamp=1709019882 (Feb 27 2024 07:44:42)
+0160.579 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0160.579 (0) Examining (for databases) backup set with group_id=0, nonce=7ab5a170f01b, datestamp=1708937764 (Feb 26 2024 08:56:04)
+0160.579 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0160.580 (0) Examining (for databases) backup set with group_id=0, nonce=95a8fbb2db95, datestamp=1708858641 (Feb 25 2024 10:57:21)
+0160.580 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0160.580 (0) Examining (for databases) backup set with group_id=0, nonce=dc517ca6ece2, datestamp=1708714220 (Feb 23 2024 18:50:20)
+0160.580 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0160.580 (0) Examining (for databases) backup set with group_id=0, nonce=2fcafdc2e575, datestamp=1708586180 (Feb 22 2024 07:16:20)
+0160.580 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0160.580 (0) Examining (for databases) backup set with group_id=0, nonce=0e1dfd2a2266, datestamp=1708503202 (Feb 21 2024 08:13:22)
+0160.580 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0160.580 (0) Examining (for databases) backup set with group_id=0, nonce=e7e83174b8cb, datestamp=1708418362 (Feb 20 2024 08:39:22)
+0160.580 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0160.580 (0) Examining (for databases) backup set with group_id=0, nonce=016ee1215a2f, datestamp=1708358542 (Feb 19 2024 16:02:22)
+0160.580 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0160.580 (0) Number of backup sets in history: 33; groups (files): 1
+0160.583 (0) Examining (for files) backup set with nonce=8e671b236e46, datestamp=1723449703 (Aug 12 2024 08:01:43)
+0160.583 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0160.585 (0) Examining (for files) backup set with nonce=37c8f34776ea, datestamp=1722831279 (Aug 05 2024 04:14:39)
+0160.585 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0160.586 (0) Examining (for files) backup set with nonce=37f887823297, datestamp=1722831157 (Aug 05 2024 04:12:37)
+0160.586 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0160.590 (0) Examining (for files) backup set with nonce=0643d3092e89, datestamp=1722828837 (Aug 05 2024 03:33:57)
+0160.590 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0160.593 (0) Examining (for files) backup set with nonce=e7bee3f2fb39, datestamp=1722828595 (Aug 05 2024 03:29:55)
+0160.593 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0160.596 (0) Examining (for files) backup set with nonce=7b58faf10bca, datestamp=1719916482 (Jul 02 2024 10:34:42)
+0160.596 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0160.599 (0) Examining (for files) backup set with nonce=a168214e68e7, datestamp=1718851381 (Jun 20 2024 02:43:01)
+0160.599 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0160.602 (0) Examining (for files) backup set with nonce=0bbed33d5f96, datestamp=1718851065 (Jun 20 2024 02:37:45)
+0160.602 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0160.604 (0) Examining (for files) backup set with nonce=4d8d6a6a1b67, datestamp=1718850976 (Jun 20 2024 02:36:16)
+0160.604 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0160.607 (0) Examining (for files) backup set with nonce=61d2771af1c0, datestamp=1717947376 (Jun 09 2024 15:36:16)
+0160.607 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0160.610 (0) Examining (for files) backup set with nonce=5847dbea7c08, datestamp=1717861252 (Jun 08 2024 15:40:52)
+0160.610 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0160.610 (0) Examining (for files) backup set with nonce=92572e18c988, datestamp=1717732550 (Jun 07 2024 03:55:50)
+0160.610 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0160.610 (0) Examining (for files) backup set with nonce=f009c121e9a2, datestamp=1717650150 (Jun 06 2024 05:02:30)
+0160.610 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0160.610 (0) Examining (for files) backup set with nonce=4972e8c7fe3e, datestamp=1717255472 (Jun 01 2024 15:24:32)
+0160.610 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0160.611 (0) Examining (for files) backup set with nonce=0ffffb433736, datestamp=1717142135 (May 31 2024 07:55:35)
+0160.611 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0160.611 (0) Examining (for files) backup set with nonce=99642449f11c, datestamp=1717045234 (May 30 2024 05:00:34)
+0160.611 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0160.611 (0) Examining (for files) backup set with nonce=5145b0574902, datestamp=1714965929 (May 06 2024 03:25:29)
+0160.611 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0160.611 (0) Examining (for files) backup set with nonce=dcd236fa2567, datestamp=1714806434 (May 04 2024 07:07:14)
+0160.611 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0160.611 (0) Examining (for files) backup set with nonce=bd14320eeae5, datestamp=1714720293 (May 03 2024 07:11:33)
+0160.611 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0160.611 (0) Examining (for files) backup set with nonce=27850c4f68b6, datestamp=1711775027 (Mar 30 2024 05:03:47)
+0160.611 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0160.611 (0) Examining (for files) backup set with nonce=1198ca9caf8a, datestamp=1711733007 (Mar 29 2024 17:23:27)
+0160.611 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0160.612 (0) Examining (for files) backup set with nonce=1050e4030ff8, datestamp=1709302467 (Mar 01 2024 14:14:27)
+0160.612 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0160.612 (0) Examining (for files) backup set with nonce=2d62ac4e78f6, datestamp=1709178966 (Feb 29 2024 03:56:06)
+0160.612 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0160.612 (0) Examining (for files) backup set with nonce=163ae6dff14c, datestamp=1709126220 (Feb 28 2024 13:17:00)
+0160.612 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0160.612 (0) Examining (for files) backup set with nonce=bab510e6b628, datestamp=1709106003 (Feb 28 2024 07:40:03)
+0160.612 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0160.612 (0) Examining (for files) backup set with nonce=ef2516e00c73, datestamp=1709019882 (Feb 27 2024 07:44:42)
+0160.612 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0160.612 (0) Examining (for files) backup set with nonce=7ab5a170f01b, datestamp=1708937764 (Feb 26 2024 08:56:04)
+0160.612 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0160.612 (0) Examining (for files) backup set with nonce=95a8fbb2db95, datestamp=1708858641 (Feb 25 2024 10:57:21)
+0160.612 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0160.612 (0) Examining (for files) backup set with nonce=dc517ca6ece2, datestamp=1708714220 (Feb 23 2024 18:50:20)
+0160.612 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0160.612 (0) Examining (for files) backup set with nonce=2fcafdc2e575, datestamp=1708586180 (Feb 22 2024 07:16:20)
+0160.612 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0160.612 (0) Examining (for files) backup set with nonce=0e1dfd2a2266, datestamp=1708503202 (Feb 21 2024 08:13:22)
+0160.612 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0160.612 (0) Examining (for files) backup set with nonce=e7e83174b8cb, datestamp=1708418362 (Feb 20 2024 08:39:22)
+0160.612 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0160.613 (0) Examining (for files) backup set with nonce=016ee1215a2f, datestamp=1708358542 (Feb 19 2024 16:02:22)
+0160.613 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0160.613 (0) Retain: saving new backup history (sets now: 33) and finishing retain operation
+0160.630 (0) Beginning creation of dump of themes (split every: 400 MB)
+0166.617 (0) Total entities for the zip file: 3211 directories, 8600 files (0 skipped as non-modified), 391.6 MB
+0166.632 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 1 (1) files added so far); re-opening (prior size: 0 KB)
+0166.861 (0) Zip: backup_2024-08-12-1002_Sammer_18ae7a711862-themes.zip.tmp: 100 files added (on-disk size: 599 KB)
+0166.886 (0) Zip: backup_2024-08-12-1002_Sammer_18ae7a711862-themes.zip.tmp: 200 files added (on-disk size: 599 KB)
+0166.911 (0) Zip: backup_2024-08-12-1002_Sammer_18ae7a711862-themes.zip.tmp: 300 files added (on-disk size: 599 KB)
+0166.940 (0) Zip: backup_2024-08-12-1002_Sammer_18ae7a711862-themes.zip.tmp: 400 files added (on-disk size: 599 KB)
+0166.966 (0) Zip: backup_2024-08-12-1002_Sammer_18ae7a711862-themes.zip.tmp: 500 files added (on-disk size: 599 KB)
+0166.975 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 25 MB added on this batch (25.1 MB, 8600 files batched, 526 (527) added so far); re-opening (prior size: 599 KB)
+0175.006 (0) A useful amount of data was added after this amount of zip processing: 8.9 s (normalised: 8.8 s, rate: 2894.8 KB/s)
+0175.073 (0) Zip: backup_2024-08-12-1002_Sammer_18ae7a711862-themes.zip.tmp: 600 files added (on-disk size: 23471.3 KB)
+0175.110 (0) Zip: backup_2024-08-12-1002_Sammer_18ae7a711862-themes.zip.tmp: 700 files added (on-disk size: 23471.3 KB)
+0175.147 (0) Zip: backup_2024-08-12-1002_Sammer_18ae7a711862-themes.zip.tmp: 800 files added (on-disk size: 23471.3 KB)
+0175.183 (0) Zip: backup_2024-08-12-1002_Sammer_18ae7a711862-themes.zip.tmp: 900 files added (on-disk size: 23471.3 KB)
+0175.221 (0) Zip: backup_2024-08-12-1002_Sammer_18ae7a711862-themes.zip.tmp: 1000 files added (on-disk size: 23471.3 KB)
+0175.251 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 25 MB added on this batch (25.3 MB, 8600 files batched, 541 (1068) added so far); re-opening (prior size: 23471.3 KB)
+0180.494 (0) A useful amount of data was added after this amount of zip processing: 6.4 s (normalised: 6.3 s, rate: 4056.5 KB/s)
+0180.545 (0) Zip: backup_2024-08-12-1002_Sammer_18ae7a711862-themes.zip.tmp: 1100 files added (on-disk size: 46444.5 KB)
+0180.576 (0) Zip: backup_2024-08-12-1002_Sammer_18ae7a711862-themes.zip.tmp: 1200 files added (on-disk size: 46444.5 KB)
+0180.609 (0) Zip: backup_2024-08-12-1002_Sammer_18ae7a711862-themes.zip.tmp: 1300 files added (on-disk size: 46444.5 KB)
+0180.644 (0) Zip: backup_2024-08-12-1002_Sammer_18ae7a711862-themes.zip.tmp: 1400 files added (on-disk size: 46444.5 KB)
+0180.675 (0) Zip: backup_2024-08-12-1002_Sammer_18ae7a711862-themes.zip.tmp: 1500 files added (on-disk size: 46444.5 KB)
+0180.705 (0) Zip: backup_2024-08-12-1002_Sammer_18ae7a711862-themes.zip.tmp: 1600 files added (on-disk size: 46444.5 KB)
+0180.710 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 25 MB added on this batch (25.1 MB, 8600 files batched, 542 (1610) added so far); re-opening (prior size: 46444.5 KB)
+0186.289 (0) A useful amount of data was added after this amount of zip processing: 6.2 s (normalised: 6.2 s, rate: 4154.4 KB/s)
+0186.359 (0) Zip: backup_2024-08-12-1002_Sammer_18ae7a711862-themes.zip.tmp: 1700 files added (on-disk size: 69249.8 KB)
+0186.384 (0) Zip: backup_2024-08-12-1002_Sammer_18ae7a711862-themes.zip.tmp: 1800 files added (on-disk size: 69249.8 KB)
+0186.411 (0) Zip: backup_2024-08-12-1002_Sammer_18ae7a711862-themes.zip.tmp: 1900 files added (on-disk size: 69249.8 KB)
+0186.437 (0) Zip: backup_2024-08-12-1002_Sammer_18ae7a711862-themes.zip.tmp: 2000 files added (on-disk size: 69249.8 KB)
+0186.464 (0) Zip: backup_2024-08-12-1002_Sammer_18ae7a711862-themes.zip.tmp: 2100 files added (on-disk size: 69249.8 KB)
+0186.490 (0) Zip: backup_2024-08-12-1002_Sammer_18ae7a711862-themes.zip.tmp: 2200 files added (on-disk size: 69249.8 KB)
+0186.516 (0) Zip: backup_2024-08-12-1002_Sammer_18ae7a711862-themes.zip.tmp: 2300 files added (on-disk size: 69249.8 KB)
+0186.537 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 25 MB added on this batch (25.1 MB, 8600 files batched, 773 (2383) added so far); re-opening (prior size: 69249.8 KB)
+0196.421 (0) A useful amount of data was added after this amount of zip processing: 10.3 s (normalised: 10.3 s, rate: 2495.3 KB/s)
+0196.477 (0) Zip: backup_2024-08-12-1002_Sammer_18ae7a711862-themes.zip.tmp: 2400 files added (on-disk size: 92461.7 KB)
+0196.512 (0) Zip: backup_2024-08-12-1002_Sammer_18ae7a711862-themes.zip.tmp: 2500 files added (on-disk size: 92461.7 KB)
+0196.543 (0) Zip: backup_2024-08-12-1002_Sammer_18ae7a711862-themes.zip.tmp: 2600 files added (on-disk size: 92461.7 KB)
+0196.585 (0) Zip: backup_2024-08-12-1002_Sammer_18ae7a711862-themes.zip.tmp: 2700 files added (on-disk size: 92461.7 KB)
+0196.613 (0) Zip: backup_2024-08-12-1002_Sammer_18ae7a711862-themes.zip.tmp: 2800 files added (on-disk size: 92461.7 KB)
+0196.650 (0) Zip: backup_2024-08-12-1002_Sammer_18ae7a711862-themes.zip.tmp: 2900 files added (on-disk size: 92461.7 KB)
+0196.662 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 25 MB added on this batch (25.4 MB, 8600 files batched, 550 (2933) added so far); re-opening (prior size: 92461.7 KB)
+0204.255 (0) A useful amount of data was added after this amount of zip processing: 8.1 s (normalised: 8 s, rate: 3192.8 KB/s)
+0204.343 (0) Zip: backup_2024-08-12-1002_Sammer_18ae7a711862-themes.zip.tmp: 3000 files added (on-disk size: 115538.9 KB)
+0204.372 (0) Zip: backup_2024-08-12-1002_Sammer_18ae7a711862-themes.zip.tmp: 3100 files added (on-disk size: 115538.9 KB)
+0204.404 (0) Zip: backup_2024-08-12-1002_Sammer_18ae7a711862-themes.zip.tmp: 3200 files added (on-disk size: 115538.9 KB)
+0204.438 (0) Zip: backup_2024-08-12-1002_Sammer_18ae7a711862-themes.zip.tmp: 3300 files added (on-disk size: 115538.9 KB)
+0204.484 (0) Zip: backup_2024-08-12-1002_Sammer_18ae7a711862-themes.zip.tmp: 3400 files added (on-disk size: 115538.9 KB)
+0204.515 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 25 MB added on this batch (25.3 MB, 8600 files batched, 557 (3490) added so far); re-opening (prior size: 115538.9 KB)
+0210.947 (0) A useful amount of data was added after this amount of zip processing: 6.8 s (normalised: 6.8 s, rate: 3783.4 KB/s)
+0211.011 (0) Zip: backup_2024-08-12-1002_Sammer_18ae7a711862-themes.zip.tmp: 3500 files added (on-disk size: 138476.4 KB)
+0211.046 (0) Zip: backup_2024-08-12-1002_Sammer_18ae7a711862-themes.zip.tmp: 3600 files added (on-disk size: 138476.4 KB)
+0211.072 (0) Zip: backup_2024-08-12-1002_Sammer_18ae7a711862-themes.zip.tmp: 3700 files added (on-disk size: 138476.4 KB)
+0211.100 (0) Zip: backup_2024-08-12-1002_Sammer_18ae7a711862-themes.zip.tmp: 3800 files added (on-disk size: 138476.4 KB)
+0211.126 (0) Zip: backup_2024-08-12-1002_Sammer_18ae7a711862-themes.zip.tmp: 3900 files added (on-disk size: 138476.4 KB)
+0211.154 (0) Zip: backup_2024-08-12-1002_Sammer_18ae7a711862-themes.zip.tmp: 4000 files added (on-disk size: 138476.4 KB)
+0211.159 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 25 MB added on this batch (25.2 MB, 8600 files batched, 517 (4007) added so far); re-opening (prior size: 138476.4 KB)
+0217.315 (0) A useful amount of data was added after this amount of zip processing: 7.2 s (normalised: 7.1 s, rate: 3585.8 KB/s)
+0217.421 (0) Zip: backup_2024-08-12-1002_Sammer_18ae7a711862-themes.zip.tmp: 4100 files added (on-disk size: 161355.4 KB)
+0217.453 (0) Zip: backup_2024-08-12-1002_Sammer_18ae7a711862-themes.zip.tmp: 4200 files added (on-disk size: 161355.4 KB)
+0217.480 (0) Zip: backup_2024-08-12-1002_Sammer_18ae7a711862-themes.zip.tmp: 4300 files added (on-disk size: 161355.4 KB)
+0217.513 (0) Zip: backup_2024-08-12-1002_Sammer_18ae7a711862-themes.zip.tmp: 4400 files added (on-disk size: 161355.4 KB)
+0217.545 (0) Zip: backup_2024-08-12-1002_Sammer_18ae7a711862-themes.zip.tmp: 4500 files added (on-disk size: 161355.4 KB)
+0217.566 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 25 MB added on this batch (28.6 MB, 8600 files batched, 552 (4559) added so far); re-opening (prior size: 161355.4 KB)
+0223.475 (0) A useful amount of data was added after this amount of zip processing: 6.4 s (normalised: 5.6 s, rate: 4606.4 KB/s)
+0223.481 (0) Performance is good - will increase the amount of data we attempt to batch (time=6.364944934845, normalised_time=5.5574395029317, max_time=223.47697901726, data points known=1, old_max_bytes=26214400, new_max_bytes=209715200)
+0223.574 (0) Zip: backup_2024-08-12-1002_Sammer_18ae7a711862-themes.zip.tmp: 4600 files added (on-disk size: 187764.7 KB)
+0223.600 (0) Zip: backup_2024-08-12-1002_Sammer_18ae7a711862-themes.zip.tmp: 4700 files added (on-disk size: 187764.7 KB)
+0223.632 (0) Zip: backup_2024-08-12-1002_Sammer_18ae7a711862-themes.zip.tmp: 4800 files added (on-disk size: 187764.7 KB)
+0223.679 (0) Zip: backup_2024-08-12-1002_Sammer_18ae7a711862-themes.zip.tmp: 4900 files added (on-disk size: 187764.7 KB)
+0223.714 (0) Zip: backup_2024-08-12-1002_Sammer_18ae7a711862-themes.zip.tmp: 5000 files added (on-disk size: 187764.7 KB)
+0223.745 (0) Zip: backup_2024-08-12-1002_Sammer_18ae7a711862-themes.zip.tmp: 5100 files added (on-disk size: 187764.7 KB)
+0223.778 (0) Zip: backup_2024-08-12-1002_Sammer_18ae7a711862-themes.zip.tmp: 5200 files added (on-disk size: 187764.7 KB)
+0223.816 (0) Zip: backup_2024-08-12-1002_Sammer_18ae7a711862-themes.zip.tmp: 5300 files added (on-disk size: 187764.7 KB)
+0223.846 (0) Zip: backup_2024-08-12-1002_Sammer_18ae7a711862-themes.zip.tmp: 5400 files added (on-disk size: 187764.7 KB)
+0223.874 (0) Zip: backup_2024-08-12-1002_Sammer_18ae7a711862-themes.zip.tmp: 5500 files added (on-disk size: 187764.7 KB)
+0223.894 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (44 MB, 8600 files batched, 1001 (5560) added so far); re-opening (prior size: 187764.7 KB)
+0235.618 (0) Zip: backup_2024-08-12-1002_Sammer_18ae7a711862-themes.zip.tmp: 5600 files added (on-disk size: 226964.7 KB)
+0235.646 (0) Zip: backup_2024-08-12-1002_Sammer_18ae7a711862-themes.zip.tmp: 5700 files added (on-disk size: 226964.7 KB)
+0235.677 (0) Zip: backup_2024-08-12-1002_Sammer_18ae7a711862-themes.zip.tmp: 5800 files added (on-disk size: 226964.7 KB)
+0235.707 (0) Zip: backup_2024-08-12-1002_Sammer_18ae7a711862-themes.zip.tmp: 5900 files added (on-disk size: 226964.7 KB)
+0235.733 (0) Zip: backup_2024-08-12-1002_Sammer_18ae7a711862-themes.zip.tmp: 6000 files added (on-disk size: 226964.7 KB)
+0235.768 (0) Zip: backup_2024-08-12-1002_Sammer_18ae7a711862-themes.zip.tmp: 6100 files added (on-disk size: 226964.7 KB)
+0235.797 (0) Zip: backup_2024-08-12-1002_Sammer_18ae7a711862-themes.zip.tmp: 6200 files added (on-disk size: 226964.7 KB)
+0235.831 (0) Zip: backup_2024-08-12-1002_Sammer_18ae7a711862-themes.zip.tmp: 6300 files added (on-disk size: 226964.7 KB)
+0235.875 (0) Zip: backup_2024-08-12-1002_Sammer_18ae7a711862-themes.zip.tmp: 6400 files added (on-disk size: 226964.7 KB)
+0235.909 (0) Zip: backup_2024-08-12-1002_Sammer_18ae7a711862-themes.zip.tmp: 6500 files added (on-disk size: 226964.7 KB)
+0235.928 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (51.7 MB, 8600 files batched, 1001 (6561) added so far); re-opening (prior size: 226964.7 KB)
+0247.584 (0) Zip: backup_2024-08-12-1002_Sammer_18ae7a711862-themes.zip.tmp: 6600 files added (on-disk size: 274473.5 KB)
+0247.620 (0) Zip: backup_2024-08-12-1002_Sammer_18ae7a711862-themes.zip.tmp: 6700 files added (on-disk size: 274473.5 KB)
+0247.663 (0) Zip: backup_2024-08-12-1002_Sammer_18ae7a711862-themes.zip.tmp: 6800 files added (on-disk size: 274473.5 KB)
+0247.699 (0) Zip: backup_2024-08-12-1002_Sammer_18ae7a711862-themes.zip.tmp: 6900 files added (on-disk size: 274473.5 KB)
+0247.739 (0) Zip: backup_2024-08-12-1002_Sammer_18ae7a711862-themes.zip.tmp: 7000 files added (on-disk size: 274473.5 KB)
+0247.776 (0) Zip: backup_2024-08-12-1002_Sammer_18ae7a711862-themes.zip.tmp: 7100 files added (on-disk size: 274473.5 KB)
+0247.812 (0) Zip: backup_2024-08-12-1002_Sammer_18ae7a711862-themes.zip.tmp: 7200 files added (on-disk size: 274473.5 KB)
+0247.846 (0) Zip: backup_2024-08-12-1002_Sammer_18ae7a711862-themes.zip.tmp: 7300 files added (on-disk size: 274473.5 KB)
+0247.881 (0) Zip: backup_2024-08-12-1002_Sammer_18ae7a711862-themes.zip.tmp: 7400 files added (on-disk size: 274473.5 KB)
+0247.923 (0) Zip: backup_2024-08-12-1002_Sammer_18ae7a711862-themes.zip.tmp: 7500 files added (on-disk size: 274473.5 KB)
+0247.944 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (45.5 MB, 8600 files batched, 1001 (7562) added so far); re-opening (prior size: 274473.5 KB)
+0265.572 (0) The scheduled resumption is within 45 seconds - will reschedule
+0265.578 (0) Rescheduling resumption 1: moving to 345 seconds from now (1723450337)
+0265.588 (0) To decrease the likelihood of overlaps, increasing resumption interval to: 300 + 45 = 345
+0265.715 (0) Zip: backup_2024-08-12-1002_Sammer_18ae7a711862-themes.zip.tmp: 7600 files added (on-disk size: 312878.1 KB)
+0265.747 (0) Zip: backup_2024-08-12-1002_Sammer_18ae7a711862-themes.zip.tmp: 7700 files added (on-disk size: 312878.1 KB)
+0265.778 (0) Zip: backup_2024-08-12-1002_Sammer_18ae7a711862-themes.zip.tmp: 7800 files added (on-disk size: 312878.1 KB)
+0265.817 (0) Zip: backup_2024-08-12-1002_Sammer_18ae7a711862-themes.zip.tmp: 7900 files added (on-disk size: 312878.1 KB)
+0265.857 (0) Zip: backup_2024-08-12-1002_Sammer_18ae7a711862-themes.zip.tmp: 8000 files added (on-disk size: 312878.1 KB)
+0265.890 (0) Zip: backup_2024-08-12-1002_Sammer_18ae7a711862-themes.zip.tmp: 8100 files added (on-disk size: 312878.1 KB)
+0265.924 (0) Zip: backup_2024-08-12-1002_Sammer_18ae7a711862-themes.zip.tmp: 8200 files added (on-disk size: 312878.1 KB)
+0265.966 (0) Zip: backup_2024-08-12-1002_Sammer_18ae7a711862-themes.zip.tmp: 8300 files added (on-disk size: 312878.1 KB)
+0266.001 (0) Zip: backup_2024-08-12-1002_Sammer_18ae7a711862-themes.zip.tmp: 8400 files added (on-disk size: 312878.1 KB)
+0266.033 (0) Zip: backup_2024-08-12-1002_Sammer_18ae7a711862-themes.zip.tmp: 8500 files added (on-disk size: 312878.1 KB)
+0266.063 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (41.8 MB, 8600 files batched, 1001 (8563) added so far); re-opening (prior size: 312878.1 KB)
+0279.902 (0) Zip: backup_2024-08-12-1002_Sammer_18ae7a711862-themes.zip.tmp: 8600 files added (on-disk size: 350104.3 KB)
+0281.778 (0) Creating zip file manifest (backup_2024-08-12-1002_Sammer_18ae7a711862-themes.zip.list-temp.tmp)
+0281.833 (0) Successfully created zip file manifest (size: 714254)
+0286.453 (0) Created themes zip (0) - 353793.9 KB in 125.8 s (2812.3 KB/s) (sha1: 3d3c7051c1fc22d58d618f39671a1cae68681e9c, sha256: f1e4bba0c29baf0076fbbfe3ccee3e41c1cb760ecdcd3cdfdb748f618cfe98cf)
+0286.481 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0286.484 (0) No remote despatch: user chose no remote backup service
+0286.488 (0) Recording as successfully uploaded: backup_2024-08-12-1002_Sammer_18ae7a711862-themes.zip
+0286.495 (0) Deleting zip manifest (backup_2024-08-12-1002_Sammer_18ae7a711862-themes.zip.list.tmp)
+0286.501 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=4, retain_db=30
+0286.508 (0) Number of backup sets in history: 33; groups (db): 1
+0286.511 (0) Examining (for databases) backup set with group_id=0, nonce=8e671b236e46, datestamp=1723449703 (Aug 12 2024 08:01:43)
+0286.514 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0286.517 (0) Examining (for databases) backup set with group_id=0, nonce=37c8f34776ea, datestamp=1722831279 (Aug 05 2024 04:14:39)
+0286.517 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0286.517 (0) Examining (for databases) backup set with group_id=0, nonce=37f887823297, datestamp=1722831157 (Aug 05 2024 04:12:37)
+0286.517 (0) Examining (for databases) backup set with group_id=0, nonce=0643d3092e89, datestamp=1722828837 (Aug 05 2024 03:33:57)
+0286.517 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0286.517 (0) Examining (for databases) backup set with group_id=0, nonce=e7bee3f2fb39, datestamp=1722828595 (Aug 05 2024 03:29:55)
+0286.517 (0) Examining (for databases) backup set with group_id=0, nonce=7b58faf10bca, datestamp=1719916482 (Jul 02 2024 10:34:42)
+0286.517 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0286.518 (0) Examining (for databases) backup set with group_id=0, nonce=a168214e68e7, datestamp=1718851381 (Jun 20 2024 02:43:01)
+0286.518 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0286.521 (0) Examining (for databases) backup set with group_id=0, nonce=0bbed33d5f96, datestamp=1718851065 (Jun 20 2024 02:37:45)
+0286.521 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0286.524 (0) Examining (for databases) backup set with group_id=0, nonce=4d8d6a6a1b67, datestamp=1718850976 (Jun 20 2024 02:36:16)
+0286.524 (0) Examining (for databases) backup set with group_id=0, nonce=61d2771af1c0, datestamp=1717947376 (Jun 09 2024 15:36:16)
+0286.524 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0286.524 (0) Examining (for databases) backup set with group_id=0, nonce=5847dbea7c08, datestamp=1717861252 (Jun 08 2024 15:40:52)
+0286.524 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0286.525 (0) Examining (for databases) backup set with group_id=0, nonce=92572e18c988, datestamp=1717732550 (Jun 07 2024 03:55:50)
+0286.525 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0286.525 (0) Examining (for databases) backup set with group_id=0, nonce=f009c121e9a2, datestamp=1717650150 (Jun 06 2024 05:02:30)
+0286.525 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0286.525 (0) Examining (for databases) backup set with group_id=0, nonce=4972e8c7fe3e, datestamp=1717255472 (Jun 01 2024 15:24:32)
+0286.525 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0286.525 (0) Examining (for databases) backup set with group_id=0, nonce=0ffffb433736, datestamp=1717142135 (May 31 2024 07:55:35)
+0286.525 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0286.526 (0) Examining (for databases) backup set with group_id=0, nonce=99642449f11c, datestamp=1717045234 (May 30 2024 05:00:34)
+0286.526 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0286.526 (0) Examining (for databases) backup set with group_id=0, nonce=5145b0574902, datestamp=1714965929 (May 06 2024 03:25:29)
+0286.526 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0286.526 (0) Examining (for databases) backup set with group_id=0, nonce=dcd236fa2567, datestamp=1714806434 (May 04 2024 07:07:14)
+0286.526 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0286.526 (0) Examining (for databases) backup set with group_id=0, nonce=bd14320eeae5, datestamp=1714720293 (May 03 2024 07:11:33)
+0286.526 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0286.527 (0) Examining (for databases) backup set with group_id=0, nonce=27850c4f68b6, datestamp=1711775027 (Mar 30 2024 05:03:47)
+0286.527 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0286.527 (0) Examining (for databases) backup set with group_id=0, nonce=1198ca9caf8a, datestamp=1711733007 (Mar 29 2024 17:23:27)
+0286.527 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0286.527 (0) Examining (for databases) backup set with group_id=0, nonce=1050e4030ff8, datestamp=1709302467 (Mar 01 2024 14:14:27)
+0286.527 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0286.527 (0) Examining (for databases) backup set with group_id=0, nonce=2d62ac4e78f6, datestamp=1709178966 (Feb 29 2024 03:56:06)
+0286.527 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0286.528 (0) Examining (for databases) backup set with group_id=0, nonce=163ae6dff14c, datestamp=1709126220 (Feb 28 2024 13:17:00)
+0286.528 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0286.528 (0) Examining (for databases) backup set with group_id=0, nonce=bab510e6b628, datestamp=1709106003 (Feb 28 2024 07:40:03)
+0286.528 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0286.528 (0) Examining (for databases) backup set with group_id=0, nonce=ef2516e00c73, datestamp=1709019882 (Feb 27 2024 07:44:42)
+0286.528 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0286.528 (0) Examining (for databases) backup set with group_id=0, nonce=7ab5a170f01b, datestamp=1708937764 (Feb 26 2024 08:56:04)
+0286.528 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0286.528 (0) Examining (for databases) backup set with group_id=0, nonce=95a8fbb2db95, datestamp=1708858641 (Feb 25 2024 10:57:21)
+0286.529 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0286.529 (0) Examining (for databases) backup set with group_id=0, nonce=dc517ca6ece2, datestamp=1708714220 (Feb 23 2024 18:50:20)
+0286.529 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0286.529 (0) Examining (for databases) backup set with group_id=0, nonce=2fcafdc2e575, datestamp=1708586180 (Feb 22 2024 07:16:20)
+0286.529 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0286.529 (0) Examining (for databases) backup set with group_id=0, nonce=0e1dfd2a2266, datestamp=1708503202 (Feb 21 2024 08:13:22)
+0286.529 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0286.529 (0) Examining (for databases) backup set with group_id=0, nonce=e7e83174b8cb, datestamp=1708418362 (Feb 20 2024 08:39:22)
+0286.529 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0286.530 (0) Examining (for databases) backup set with group_id=0, nonce=016ee1215a2f, datestamp=1708358542 (Feb 19 2024 16:02:22)
+0286.530 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0286.530 (0) Number of backup sets in history: 33; groups (files): 1
+0286.533 (0) Examining (for files) backup set with nonce=8e671b236e46, datestamp=1723449703 (Aug 12 2024 08:01:43)
+0286.533 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0286.536 (0) Examining (for files) backup set with nonce=37c8f34776ea, datestamp=1722831279 (Aug 05 2024 04:14:39)
+0286.536 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0286.537 (0) Examining (for files) backup set with nonce=37f887823297, datestamp=1722831157 (Aug 05 2024 04:12:37)
+0286.537 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0286.540 (0) Examining (for files) backup set with nonce=0643d3092e89, datestamp=1722828837 (Aug 05 2024 03:33:57)
+0286.540 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0286.543 (0) Examining (for files) backup set with nonce=e7bee3f2fb39, datestamp=1722828595 (Aug 05 2024 03:29:55)
+0286.543 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0286.546 (0) Examining (for files) backup set with nonce=7b58faf10bca, datestamp=1719916482 (Jul 02 2024 10:34:42)
+0286.546 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0286.549 (0) Examining (for files) backup set with nonce=a168214e68e7, datestamp=1718851381 (Jun 20 2024 02:43:01)
+0286.549 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0286.552 (0) Examining (for files) backup set with nonce=0bbed33d5f96, datestamp=1718851065 (Jun 20 2024 02:37:45)
+0286.552 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0286.556 (0) Examining (for files) backup set with nonce=4d8d6a6a1b67, datestamp=1718850976 (Jun 20 2024 02:36:16)
+0286.556 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0286.559 (0) Examining (for files) backup set with nonce=61d2771af1c0, datestamp=1717947376 (Jun 09 2024 15:36:16)
+0286.559 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0286.562 (0) Examining (for files) backup set with nonce=5847dbea7c08, datestamp=1717861252 (Jun 08 2024 15:40:52)
+0286.562 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0286.563 (0) Examining (for files) backup set with nonce=92572e18c988, datestamp=1717732550 (Jun 07 2024 03:55:50)
+0286.563 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0286.563 (0) Examining (for files) backup set with nonce=f009c121e9a2, datestamp=1717650150 (Jun 06 2024 05:02:30)
+0286.563 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0286.563 (0) Examining (for files) backup set with nonce=4972e8c7fe3e, datestamp=1717255472 (Jun 01 2024 15:24:32)
+0286.563 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0286.563 (0) Examining (for files) backup set with nonce=0ffffb433736, datestamp=1717142135 (May 31 2024 07:55:35)
+0286.563 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0286.563 (0) Examining (for files) backup set with nonce=99642449f11c, datestamp=1717045234 (May 30 2024 05:00:34)
+0286.563 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0286.564 (0) Examining (for files) backup set with nonce=5145b0574902, datestamp=1714965929 (May 06 2024 03:25:29)
+0286.564 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0286.564 (0) Examining (for files) backup set with nonce=dcd236fa2567, datestamp=1714806434 (May 04 2024 07:07:14)
+0286.564 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0286.564 (0) Examining (for files) backup set with nonce=bd14320eeae5, datestamp=1714720293 (May 03 2024 07:11:33)
+0286.564 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0286.564 (0) Examining (for files) backup set with nonce=27850c4f68b6, datestamp=1711775027 (Mar 30 2024 05:03:47)
+0286.564 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0286.564 (0) Examining (for files) backup set with nonce=1198ca9caf8a, datestamp=1711733007 (Mar 29 2024 17:23:27)
+0286.564 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0286.565 (0) Examining (for files) backup set with nonce=1050e4030ff8, datestamp=1709302467 (Mar 01 2024 14:14:27)
+0286.565 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0286.565 (0) Examining (for files) backup set with nonce=2d62ac4e78f6, datestamp=1709178966 (Feb 29 2024 03:56:06)
+0286.565 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0286.565 (0) Examining (for files) backup set with nonce=163ae6dff14c, datestamp=1709126220 (Feb 28 2024 13:17:00)
+0286.565 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0286.565 (0) Examining (for files) backup set with nonce=bab510e6b628, datestamp=1709106003 (Feb 28 2024 07:40:03)
+0286.565 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0286.566 (0) Examining (for files) backup set with nonce=ef2516e00c73, datestamp=1709019882 (Feb 27 2024 07:44:42)
+0286.566 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0286.566 (0) Examining (for files) backup set with nonce=7ab5a170f01b, datestamp=1708937764 (Feb 26 2024 08:56:04)
+0286.566 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0286.566 (0) Examining (for files) backup set with nonce=95a8fbb2db95, datestamp=1708858641 (Feb 25 2024 10:57:21)
+0286.566 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0286.566 (0) Examining (for files) backup set with nonce=dc517ca6ece2, datestamp=1708714220 (Feb 23 2024 18:50:20)
+0286.566 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0286.566 (0) Examining (for files) backup set with nonce=2fcafdc2e575, datestamp=1708586180 (Feb 22 2024 07:16:20)
+0286.566 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0286.567 (0) Examining (for files) backup set with nonce=0e1dfd2a2266, datestamp=1708503202 (Feb 21 2024 08:13:22)
+0286.567 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0286.567 (0) Examining (for files) backup set with nonce=e7e83174b8cb, datestamp=1708418362 (Feb 20 2024 08:39:22)
+0286.567 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0286.567 (0) Examining (for files) backup set with nonce=016ee1215a2f, datestamp=1708358542 (Feb 19 2024 16:02:22)
+0286.567 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0286.567 (0) Retain: saving new backup history (sets now: 33) and finishing retain operation
+0286.587 (0) Exclusion option setting (uploads): 
+0286.590 (0) Looking for candidates to backup in: D:\OpenServer\domains\zadanie26/wp-content/uploads
+0286.594 (0) finding files: .htaccess: adding to list (1)
+0286.597 (0) finding files: 2023: adding to list (2)
+0286.599 (0) finding files: 2024: adding to list (3)
+0286.602 (0) finding files: webp-express-test-conversion.webp: adding to list (4)
+0286.606 (0) finding files: wp-file-manager-pro: adding to list (5)
+0286.608 (0) finding files: wpo: adding to list (6)
+0286.612 (0) finding files: wpo-plugins-tables-list.json: adding to list (7)
+0286.615 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0287.201 (0) Total entities for the zip file: 19 directories, 908 files (0 skipped as non-modified), 166.7 MB
+0287.249 (0) Zip: backup_2024-08-12-1002_Sammer_18ae7a711862-uploads.zip.tmp: 100 files added (on-disk size: 0 KB)
+0287.274 (0) Zip: backup_2024-08-12-1002_Sammer_18ae7a711862-uploads.zip.tmp: 200 files added (on-disk size: 0 KB)
+0287.300 (0) Zip: backup_2024-08-12-1002_Sammer_18ae7a711862-uploads.zip.tmp: 300 files added (on-disk size: 0 KB)
+0287.326 (0) Zip: backup_2024-08-12-1002_Sammer_18ae7a711862-uploads.zip.tmp: 400 files added (on-disk size: 0 KB)
+0287.351 (0) Zip: backup_2024-08-12-1002_Sammer_18ae7a711862-uploads.zip.tmp: 500 files added (on-disk size: 0 KB)
+0287.378 (0) Zip: backup_2024-08-12-1002_Sammer_18ae7a711862-uploads.zip.tmp: 600 files added (on-disk size: 0 KB)
+0287.407 (0) Zip: backup_2024-08-12-1002_Sammer_18ae7a711862-uploads.zip.tmp: 700 files added (on-disk size: 0 KB)
+0287.434 (0) Zip: backup_2024-08-12-1002_Sammer_18ae7a711862-uploads.zip.tmp: 800 files added (on-disk size: 0 KB)
+0287.462 (0) Zip: backup_2024-08-12-1002_Sammer_18ae7a711862-uploads.zip.tmp: 900 files added (on-disk size: 0 KB)
+0301.902 (0) Creating zip file manifest (backup_2024-08-12-1002_Sammer_18ae7a711862-uploads.zip.list-temp.tmp)
+0301.912 (0) Successfully created zip file manifest (size: 56315)
+0303.967 (0) Created uploads zip (0) - 158214.1 KB in 17.3 s (9147.4 KB/s) (sha1: 0c09148fedcd15cffbae76fbbad63652645b59dc, sha256: 52cdf0a30eec1fdd0b770a4001387372addb34d792e6501b6c05a2af7942504b)
+0303.982 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0303.985 (0) No remote despatch: user chose no remote backup service
+0303.988 (0) Recording as successfully uploaded: backup_2024-08-12-1002_Sammer_18ae7a711862-uploads.zip
+0303.995 (0) Deleting zip manifest (backup_2024-08-12-1002_Sammer_18ae7a711862-uploads.zip.list.tmp)
+0304.002 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=4, retain_db=30
+0304.009 (0) Number of backup sets in history: 33; groups (db): 1
+0304.012 (0) Examining (for databases) backup set with group_id=0, nonce=8e671b236e46, datestamp=1723449703 (Aug 12 2024 08:01:43)
+0304.016 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0304.019 (0) Examining (for databases) backup set with group_id=0, nonce=37c8f34776ea, datestamp=1722831279 (Aug 05 2024 04:14:39)
+0304.020 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0304.020 (0) Examining (for databases) backup set with group_id=0, nonce=37f887823297, datestamp=1722831157 (Aug 05 2024 04:12:37)
+0304.020 (0) Examining (for databases) backup set with group_id=0, nonce=0643d3092e89, datestamp=1722828837 (Aug 05 2024 03:33:57)
+0304.020 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0304.020 (0) Examining (for databases) backup set with group_id=0, nonce=e7bee3f2fb39, datestamp=1722828595 (Aug 05 2024 03:29:55)
+0304.020 (0) Examining (for databases) backup set with group_id=0, nonce=7b58faf10bca, datestamp=1719916482 (Jul 02 2024 10:34:42)
+0304.020 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0304.020 (0) Examining (for databases) backup set with group_id=0, nonce=a168214e68e7, datestamp=1718851381 (Jun 20 2024 02:43:01)
+0304.020 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0304.023 (0) Examining (for databases) backup set with group_id=0, nonce=0bbed33d5f96, datestamp=1718851065 (Jun 20 2024 02:37:45)
+0304.023 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0304.026 (0) Examining (for databases) backup set with group_id=0, nonce=4d8d6a6a1b67, datestamp=1718850976 (Jun 20 2024 02:36:16)
+0304.026 (0) Examining (for databases) backup set with group_id=0, nonce=61d2771af1c0, datestamp=1717947376 (Jun 09 2024 15:36:16)
+0304.026 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0304.026 (0) Examining (for databases) backup set with group_id=0, nonce=5847dbea7c08, datestamp=1717861252 (Jun 08 2024 15:40:52)
+0304.026 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0304.026 (0) Examining (for databases) backup set with group_id=0, nonce=92572e18c988, datestamp=1717732550 (Jun 07 2024 03:55:50)
+0304.026 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0304.026 (0) Examining (for databases) backup set with group_id=0, nonce=f009c121e9a2, datestamp=1717650150 (Jun 06 2024 05:02:30)
+0304.026 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0304.026 (0) Examining (for databases) backup set with group_id=0, nonce=4972e8c7fe3e, datestamp=1717255472 (Jun 01 2024 15:24:32)
+0304.026 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0304.026 (0) Examining (for databases) backup set with group_id=0, nonce=0ffffb433736, datestamp=1717142135 (May 31 2024 07:55:35)
+0304.026 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0304.026 (0) Examining (for databases) backup set with group_id=0, nonce=99642449f11c, datestamp=1717045234 (May 30 2024 05:00:34)
+0304.026 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0304.027 (0) Examining (for databases) backup set with group_id=0, nonce=5145b0574902, datestamp=1714965929 (May 06 2024 03:25:29)
+0304.027 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0304.027 (0) Examining (for databases) backup set with group_id=0, nonce=dcd236fa2567, datestamp=1714806434 (May 04 2024 07:07:14)
+0304.027 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0304.027 (0) Examining (for databases) backup set with group_id=0, nonce=bd14320eeae5, datestamp=1714720293 (May 03 2024 07:11:33)
+0304.027 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0304.027 (0) Examining (for databases) backup set with group_id=0, nonce=27850c4f68b6, datestamp=1711775027 (Mar 30 2024 05:03:47)
+0304.027 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0304.027 (0) Examining (for databases) backup set with group_id=0, nonce=1198ca9caf8a, datestamp=1711733007 (Mar 29 2024 17:23:27)
+0304.027 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0304.027 (0) Examining (for databases) backup set with group_id=0, nonce=1050e4030ff8, datestamp=1709302467 (Mar 01 2024 14:14:27)
+0304.027 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0304.027 (0) Examining (for databases) backup set with group_id=0, nonce=2d62ac4e78f6, datestamp=1709178966 (Feb 29 2024 03:56:06)
+0304.027 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0304.027 (0) Examining (for databases) backup set with group_id=0, nonce=163ae6dff14c, datestamp=1709126220 (Feb 28 2024 13:17:00)
+0304.027 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0304.027 (0) Examining (for databases) backup set with group_id=0, nonce=bab510e6b628, datestamp=1709106003 (Feb 28 2024 07:40:03)
+0304.027 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0304.028 (0) Examining (for databases) backup set with group_id=0, nonce=ef2516e00c73, datestamp=1709019882 (Feb 27 2024 07:44:42)
+0304.028 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0304.028 (0) Examining (for databases) backup set with group_id=0, nonce=7ab5a170f01b, datestamp=1708937764 (Feb 26 2024 08:56:04)
+0304.028 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0304.028 (0) Examining (for databases) backup set with group_id=0, nonce=95a8fbb2db95, datestamp=1708858641 (Feb 25 2024 10:57:21)
+0304.028 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0304.028 (0) Examining (for databases) backup set with group_id=0, nonce=dc517ca6ece2, datestamp=1708714220 (Feb 23 2024 18:50:20)
+0304.028 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0304.028 (0) Examining (for databases) backup set with group_id=0, nonce=2fcafdc2e575, datestamp=1708586180 (Feb 22 2024 07:16:20)
+0304.028 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0304.028 (0) Examining (for databases) backup set with group_id=0, nonce=0e1dfd2a2266, datestamp=1708503202 (Feb 21 2024 08:13:22)
+0304.028 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0304.028 (0) Examining (for databases) backup set with group_id=0, nonce=e7e83174b8cb, datestamp=1708418362 (Feb 20 2024 08:39:22)
+0304.028 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0304.028 (0) Examining (for databases) backup set with group_id=0, nonce=016ee1215a2f, datestamp=1708358542 (Feb 19 2024 16:02:22)
+0304.028 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0304.028 (0) Number of backup sets in history: 33; groups (files): 1
+0304.031 (0) Examining (for files) backup set with nonce=8e671b236e46, datestamp=1723449703 (Aug 12 2024 08:01:43)
+0304.031 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0304.033 (0) Examining (for files) backup set with nonce=37c8f34776ea, datestamp=1722831279 (Aug 05 2024 04:14:39)
+0304.033 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0304.033 (0) Examining (for files) backup set with nonce=37f887823297, datestamp=1722831157 (Aug 05 2024 04:12:37)
+0304.033 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0304.036 (0) Examining (for files) backup set with nonce=0643d3092e89, datestamp=1722828837 (Aug 05 2024 03:33:57)
+0304.036 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0304.039 (0) Examining (for files) backup set with nonce=e7bee3f2fb39, datestamp=1722828595 (Aug 05 2024 03:29:55)
+0304.039 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0304.042 (0) Examining (for files) backup set with nonce=7b58faf10bca, datestamp=1719916482 (Jul 02 2024 10:34:42)
+0304.042 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0304.045 (0) Examining (for files) backup set with nonce=a168214e68e7, datestamp=1718851381 (Jun 20 2024 02:43:01)
+0304.045 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0304.048 (0) Examining (for files) backup set with nonce=0bbed33d5f96, datestamp=1718851065 (Jun 20 2024 02:37:45)
+0304.048 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0304.051 (0) Examining (for files) backup set with nonce=4d8d6a6a1b67, datestamp=1718850976 (Jun 20 2024 02:36:16)
+0304.051 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0304.053 (0) Examining (for files) backup set with nonce=61d2771af1c0, datestamp=1717947376 (Jun 09 2024 15:36:16)
+0304.053 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0304.056 (0) Examining (for files) backup set with nonce=5847dbea7c08, datestamp=1717861252 (Jun 08 2024 15:40:52)
+0304.056 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0304.056 (0) Examining (for files) backup set with nonce=92572e18c988, datestamp=1717732550 (Jun 07 2024 03:55:50)
+0304.056 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0304.057 (0) Examining (for files) backup set with nonce=f009c121e9a2, datestamp=1717650150 (Jun 06 2024 05:02:30)
+0304.057 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0304.057 (0) Examining (for files) backup set with nonce=4972e8c7fe3e, datestamp=1717255472 (Jun 01 2024 15:24:32)
+0304.057 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0304.057 (0) Examining (for files) backup set with nonce=0ffffb433736, datestamp=1717142135 (May 31 2024 07:55:35)
+0304.057 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0304.057 (0) Examining (for files) backup set with nonce=99642449f11c, datestamp=1717045234 (May 30 2024 05:00:34)
+0304.057 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0304.057 (0) Examining (for files) backup set with nonce=5145b0574902, datestamp=1714965929 (May 06 2024 03:25:29)
+0304.057 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0304.057 (0) Examining (for files) backup set with nonce=dcd236fa2567, datestamp=1714806434 (May 04 2024 07:07:14)
+0304.057 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0304.057 (0) Examining (for files) backup set with nonce=bd14320eeae5, datestamp=1714720293 (May 03 2024 07:11:33)
+0304.057 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0304.057 (0) Examining (for files) backup set with nonce=27850c4f68b6, datestamp=1711775027 (Mar 30 2024 05:03:47)
+0304.057 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0304.057 (0) Examining (for files) backup set with nonce=1198ca9caf8a, datestamp=1711733007 (Mar 29 2024 17:23:27)
+0304.057 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0304.057 (0) Examining (for files) backup set with nonce=1050e4030ff8, datestamp=1709302467 (Mar 01 2024 14:14:27)
+0304.057 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0304.058 (0) Examining (for files) backup set with nonce=2d62ac4e78f6, datestamp=1709178966 (Feb 29 2024 03:56:06)
+0304.058 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0304.058 (0) Examining (for files) backup set with nonce=163ae6dff14c, datestamp=1709126220 (Feb 28 2024 13:17:00)
+0304.058 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0304.058 (0) Examining (for files) backup set with nonce=bab510e6b628, datestamp=1709106003 (Feb 28 2024 07:40:03)
+0304.058 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0304.058 (0) Examining (for files) backup set with nonce=ef2516e00c73, datestamp=1709019882 (Feb 27 2024 07:44:42)
+0304.058 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0304.058 (0) Examining (for files) backup set with nonce=7ab5a170f01b, datestamp=1708937764 (Feb 26 2024 08:56:04)
+0304.058 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0304.058 (0) Examining (for files) backup set with nonce=95a8fbb2db95, datestamp=1708858641 (Feb 25 2024 10:57:21)
+0304.058 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0304.058 (0) Examining (for files) backup set with nonce=dc517ca6ece2, datestamp=1708714220 (Feb 23 2024 18:50:20)
+0304.058 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0304.058 (0) Examining (for files) backup set with nonce=2fcafdc2e575, datestamp=1708586180 (Feb 22 2024 07:16:20)
+0304.058 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0304.058 (0) Examining (for files) backup set with nonce=0e1dfd2a2266, datestamp=1708503202 (Feb 21 2024 08:13:22)
+0304.058 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0304.059 (0) Examining (for files) backup set with nonce=e7e83174b8cb, datestamp=1708418362 (Feb 20 2024 08:39:22)
+0304.059 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0304.059 (0) Examining (for files) backup set with nonce=016ee1215a2f, datestamp=1708358542 (Feb 19 2024 16:02:22)
+0304.059 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0304.059 (0) Retain: saving new backup history (sets now: 33) and finishing retain operation
+0304.079 (0) Beginning creation of dump of mu-plugins (split every: 400 MB)
+0304.082 (0) Does not exist: D:\OpenServer\domains\zadanie26/wp-content/mu-plugins
+0304.085 (0) There are no mu-plugins to backup. Will not raise an error.
+0304.087 (0) mu-plugins: create_zip returned an error
+0304.094 (0) Beginning backup of other directories found in the content directory (index: 0)
+0304.096 (0) Exclusion option setting (others): 
+0304.099 (0) Looking for candidates to backup in: D:\OpenServer\domains\zadanie26/wp-content
+0304.102 (0) finding files: backups-dup-lite: adding to list (1)
+0304.105 (0) finding files: cache: adding to list (2)
+0304.107 (0) finding files: index.php: adding to list (3)
+0304.110 (0) finding files: languages: adding to list (4)
+0304.115 (0) finding files: plugins: skipping: this is the plugins directory
+0304.119 (0) finding files: themes: skipping: this is the themes directory
+0304.122 (0) finding files: updraft: skipping: this is the updraft directory
+0304.124 (0) finding files: upgrade: adding to list (5)
+0304.127 (0) finding files: upgrade-temp-backup: adding to list (6)
+0304.129 (0) finding files: uploads: skipping: this is the uploads directory
+0304.132 (0) finding files: wpo-cache: adding to list (7)
+0304.302 (0) Total entities for the zip file: 25 directories, 294 files (0 skipped as non-modified), 2246.5 MB
+0304.309 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 200 MB added on this batch (244.1 MB, 294 files batched, 6 (6) added so far); re-opening (prior size: 0 KB)
+0306.409 (0) A useful amount of data was added after this amount of zip processing: 2.3 s (normalised: 1.9 s, rate: 108736.8 KB/s)
+0306.412 (0) Performance is good - but we will not increase the amount of data we batch, as we are already at the present limit (time=2.299024105072, normalised_time=1.8834468690708, max_time=306.41171693802, data points known=1, max_bytes=209715200)
+0306.447 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 200 MB added on this batch (206.5 MB, 294 files batched, 6 (12) added so far); re-opening (prior size: 249931.5 KB)
+0308.634 (0) A useful amount of data was added after this amount of zip processing: 2.5 s (normalised: 2.4 s, rate: 83788.7 KB/s)
+0308.637 (0) Performance is good - but we will not increase the amount of data we batch, as we are already at the present limit (time=2.5237259864807, normalised_time=2.4442431988817, max_time=308.63675904274, data points known=1, max_bytes=209715200)
+0308.644 (0) Zip size is at/near split limit (450.5 MB / 400 MB) - bumping index (from: 0)
+0314.681 (0) Creating zip file manifest (backup_2024-08-12-1002_Sammer_18ae7a711862-others.zip.list-temp.tmp)
+0314.687 (0) Successfully created zip file manifest (size: 1082)
+0314.695 (0) Created others zip (0) - 461272.9 KB in 4.5 s (102541.7 KB/s) (checksums: sha1: fc5a593148e6f2ae37e61f5ae241e5f2431d8f13, sha256: a6c6f27672f060c194412746b36fc4aeec67011c1488b954380da3c20930987c)
+0314.715 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0314.718 (0) No remote despatch: user chose no remote backup service
+0314.721 (0) Recording as successfully uploaded: backup_2024-08-12-1002_Sammer_18ae7a711862-others.zip
+0314.728 (0) Deleting zip manifest (backup_2024-08-12-1002_Sammer_18ae7a711862-others.zip.list.tmp)
+0314.737 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=4, retain_db=30
+0314.742 (0) Number of backup sets in history: 33; groups (db): 1
+0314.745 (0) Examining (for databases) backup set with group_id=0, nonce=8e671b236e46, datestamp=1723449703 (Aug 12 2024 08:01:43)
+0314.748 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0314.751 (0) Examining (for databases) backup set with group_id=0, nonce=37c8f34776ea, datestamp=1722831279 (Aug 05 2024 04:14:39)
+0314.751 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0314.752 (0) Examining (for databases) backup set with group_id=0, nonce=37f887823297, datestamp=1722831157 (Aug 05 2024 04:12:37)
+0314.752 (0) Examining (for databases) backup set with group_id=0, nonce=0643d3092e89, datestamp=1722828837 (Aug 05 2024 03:33:57)
+0314.752 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0314.752 (0) Examining (for databases) backup set with group_id=0, nonce=e7bee3f2fb39, datestamp=1722828595 (Aug 05 2024 03:29:55)
+0314.752 (0) Examining (for databases) backup set with group_id=0, nonce=7b58faf10bca, datestamp=1719916482 (Jul 02 2024 10:34:42)
+0314.752 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0314.752 (0) Examining (for databases) backup set with group_id=0, nonce=a168214e68e7, datestamp=1718851381 (Jun 20 2024 02:43:01)
+0314.752 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0314.755 (0) Examining (for databases) backup set with group_id=0, nonce=0bbed33d5f96, datestamp=1718851065 (Jun 20 2024 02:37:45)
+0314.755 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0314.757 (0) Examining (for databases) backup set with group_id=0, nonce=4d8d6a6a1b67, datestamp=1718850976 (Jun 20 2024 02:36:16)
+0314.757 (0) Examining (for databases) backup set with group_id=0, nonce=61d2771af1c0, datestamp=1717947376 (Jun 09 2024 15:36:16)
+0314.757 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0314.758 (0) Examining (for databases) backup set with group_id=0, nonce=5847dbea7c08, datestamp=1717861252 (Jun 08 2024 15:40:52)
+0314.758 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0314.758 (0) Examining (for databases) backup set with group_id=0, nonce=92572e18c988, datestamp=1717732550 (Jun 07 2024 03:55:50)
+0314.758 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0314.758 (0) Examining (for databases) backup set with group_id=0, nonce=f009c121e9a2, datestamp=1717650150 (Jun 06 2024 05:02:30)
+0314.758 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0314.758 (0) Examining (for databases) backup set with group_id=0, nonce=4972e8c7fe3e, datestamp=1717255472 (Jun 01 2024 15:24:32)
+0314.758 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0314.759 (0) Examining (for databases) backup set with group_id=0, nonce=0ffffb433736, datestamp=1717142135 (May 31 2024 07:55:35)
+0314.759 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0314.759 (0) Examining (for databases) backup set with group_id=0, nonce=99642449f11c, datestamp=1717045234 (May 30 2024 05:00:34)
+0314.759 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0314.759 (0) Examining (for databases) backup set with group_id=0, nonce=5145b0574902, datestamp=1714965929 (May 06 2024 03:25:29)
+0314.759 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0314.759 (0) Examining (for databases) backup set with group_id=0, nonce=dcd236fa2567, datestamp=1714806434 (May 04 2024 07:07:14)
+0314.759 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0314.759 (0) Examining (for databases) backup set with group_id=0, nonce=bd14320eeae5, datestamp=1714720293 (May 03 2024 07:11:33)
+0314.759 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0314.760 (0) Examining (for databases) backup set with group_id=0, nonce=27850c4f68b6, datestamp=1711775027 (Mar 30 2024 05:03:47)
+0314.760 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0314.760 (0) Examining (for databases) backup set with group_id=0, nonce=1198ca9caf8a, datestamp=1711733007 (Mar 29 2024 17:23:27)
+0314.760 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0314.760 (0) Examining (for databases) backup set with group_id=0, nonce=1050e4030ff8, datestamp=1709302467 (Mar 01 2024 14:14:27)
+0314.760 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0314.760 (0) Examining (for databases) backup set with group_id=0, nonce=2d62ac4e78f6, datestamp=1709178966 (Feb 29 2024 03:56:06)
+0314.760 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0314.760 (0) Examining (for databases) backup set with group_id=0, nonce=163ae6dff14c, datestamp=1709126220 (Feb 28 2024 13:17:00)
+0314.760 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0314.761 (0) Examining (for databases) backup set with group_id=0, nonce=bab510e6b628, datestamp=1709106003 (Feb 28 2024 07:40:03)
+0314.761 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0314.761 (0) Examining (for databases) backup set with group_id=0, nonce=ef2516e00c73, datestamp=1709019882 (Feb 27 2024 07:44:42)
+0314.761 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0314.761 (0) Examining (for databases) backup set with group_id=0, nonce=7ab5a170f01b, datestamp=1708937764 (Feb 26 2024 08:56:04)
+0314.761 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0314.761 (0) Examining (for databases) backup set with group_id=0, nonce=95a8fbb2db95, datestamp=1708858641 (Feb 25 2024 10:57:21)
+0314.761 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0314.761 (0) Examining (for databases) backup set with group_id=0, nonce=dc517ca6ece2, datestamp=1708714220 (Feb 23 2024 18:50:20)
+0314.761 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0314.762 (0) Examining (for databases) backup set with group_id=0, nonce=2fcafdc2e575, datestamp=1708586180 (Feb 22 2024 07:16:20)
+0314.762 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0314.762 (0) Examining (for databases) backup set with group_id=0, nonce=0e1dfd2a2266, datestamp=1708503202 (Feb 21 2024 08:13:22)
+0314.762 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0314.762 (0) Examining (for databases) backup set with group_id=0, nonce=e7e83174b8cb, datestamp=1708418362 (Feb 20 2024 08:39:22)
+0314.762 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0314.762 (0) Examining (for databases) backup set with group_id=0, nonce=016ee1215a2f, datestamp=1708358542 (Feb 19 2024 16:02:22)
+0314.762 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0314.763 (0) Number of backup sets in history: 33; groups (files): 1
+0314.765 (0) Examining (for files) backup set with nonce=8e671b236e46, datestamp=1723449703 (Aug 12 2024 08:01:43)
+0314.765 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0314.768 (0) Examining (for files) backup set with nonce=37c8f34776ea, datestamp=1722831279 (Aug 05 2024 04:14:39)
+0314.768 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0314.768 (0) Examining (for files) backup set with nonce=37f887823297, datestamp=1722831157 (Aug 05 2024 04:12:37)
+0314.768 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0314.770 (0) Examining (for files) backup set with nonce=0643d3092e89, datestamp=1722828837 (Aug 05 2024 03:33:57)
+0314.771 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0314.773 (0) Examining (for files) backup set with nonce=e7bee3f2fb39, datestamp=1722828595 (Aug 05 2024 03:29:55)
+0314.773 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0314.776 (0) Examining (for files) backup set with nonce=7b58faf10bca, datestamp=1719916482 (Jul 02 2024 10:34:42)
+0314.776 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0314.778 (0) Examining (for files) backup set with nonce=a168214e68e7, datestamp=1718851381 (Jun 20 2024 02:43:01)
+0314.779 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0314.781 (0) Examining (for files) backup set with nonce=0bbed33d5f96, datestamp=1718851065 (Jun 20 2024 02:37:45)
+0314.781 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0314.784 (0) Examining (for files) backup set with nonce=4d8d6a6a1b67, datestamp=1718850976 (Jun 20 2024 02:36:16)
+0314.784 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0314.787 (0) Examining (for files) backup set with nonce=61d2771af1c0, datestamp=1717947376 (Jun 09 2024 15:36:16)
+0314.787 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0314.790 (0) Examining (for files) backup set with nonce=5847dbea7c08, datestamp=1717861252 (Jun 08 2024 15:40:52)
+0314.790 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0314.790 (0) Examining (for files) backup set with nonce=92572e18c988, datestamp=1717732550 (Jun 07 2024 03:55:50)
+0314.790 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0314.790 (0) Examining (for files) backup set with nonce=f009c121e9a2, datestamp=1717650150 (Jun 06 2024 05:02:30)
+0314.790 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0314.790 (0) Examining (for files) backup set with nonce=4972e8c7fe3e, datestamp=1717255472 (Jun 01 2024 15:24:32)
+0314.790 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0314.791 (0) Examining (for files) backup set with nonce=0ffffb433736, datestamp=1717142135 (May 31 2024 07:55:35)
+0314.791 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0314.791 (0) Examining (for files) backup set with nonce=99642449f11c, datestamp=1717045234 (May 30 2024 05:00:34)
+0314.791 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0314.791 (0) Examining (for files) backup set with nonce=5145b0574902, datestamp=1714965929 (May 06 2024 03:25:29)
+0314.791 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0314.791 (0) Examining (for files) backup set with nonce=dcd236fa2567, datestamp=1714806434 (May 04 2024 07:07:14)
+0314.791 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0314.791 (0) Examining (for files) backup set with nonce=bd14320eeae5, datestamp=1714720293 (May 03 2024 07:11:33)
+0314.791 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0314.791 (0) Examining (for files) backup set with nonce=27850c4f68b6, datestamp=1711775027 (Mar 30 2024 05:03:47)
+0314.791 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0314.791 (0) Examining (for files) backup set with nonce=1198ca9caf8a, datestamp=1711733007 (Mar 29 2024 17:23:27)
+0314.791 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0314.791 (0) Examining (for files) backup set with nonce=1050e4030ff8, datestamp=1709302467 (Mar 01 2024 14:14:27)
+0314.791 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0314.791 (0) Examining (for files) backup set with nonce=2d62ac4e78f6, datestamp=1709178966 (Feb 29 2024 03:56:06)
+0314.791 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0314.791 (0) Examining (for files) backup set with nonce=163ae6dff14c, datestamp=1709126220 (Feb 28 2024 13:17:00)
+0314.791 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0314.792 (0) Examining (for files) backup set with nonce=bab510e6b628, datestamp=1709106003 (Feb 28 2024 07:40:03)
+0314.792 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0314.792 (0) Examining (for files) backup set with nonce=ef2516e00c73, datestamp=1709019882 (Feb 27 2024 07:44:42)
+0314.792 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0314.792 (0) Examining (for files) backup set with nonce=7ab5a170f01b, datestamp=1708937764 (Feb 26 2024 08:56:04)
+0314.792 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0314.792 (0) Examining (for files) backup set with nonce=95a8fbb2db95, datestamp=1708858641 (Feb 25 2024 10:57:21)
+0314.792 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0314.792 (0) Examining (for files) backup set with nonce=dc517ca6ece2, datestamp=1708714220 (Feb 23 2024 18:50:20)
+0314.792 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0314.792 (0) Examining (for files) backup set with nonce=2fcafdc2e575, datestamp=1708586180 (Feb 22 2024 07:16:20)
+0314.792 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0314.792 (0) Examining (for files) backup set with nonce=0e1dfd2a2266, datestamp=1708503202 (Feb 21 2024 08:13:22)
+0314.792 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0314.792 (0) Examining (for files) backup set with nonce=e7e83174b8cb, datestamp=1708418362 (Feb 20 2024 08:39:22)
+0314.792 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0314.792 (0) Examining (for files) backup set with nonce=016ee1215a2f, datestamp=1708358542 (Feb 19 2024 16:02:22)
+0314.792 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0314.793 (0) Retain: saving new backup history (sets now: 33) and finishing retain operation
+0314.806 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.1 MB, 1 (13) files added so far); re-opening (prior size: 0 KB)
+0314.964 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 200 MB added on this batch (242.6 MB, 294 files batched, 5 (18) added so far); re-opening (prior size: 15.4 KB)
+0316.311 (0) The time we have been running (316.3) is approaching the resumption interval (345) - increasing resumption interval to 347
+0316.318 (0) A useful amount of data was added after this amount of zip processing: 2.2 s (normalised: 1.8 s, rate: 112546.6 KB/s)
+0316.321 (0) Performance is good - but we will not increase the amount of data we batch, as we are already at the present limit (time=2.207643032074, normalised_time=1.8196911493529, max_time=316.3202688694, data points known=1, max_bytes=209715200)
+0316.331 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 200 MB added on this batch (253.4 MB, 294 files batched, 6 (24) added so far); re-opening (prior size: 248417.8 KB)
+0319.025 (0) The time we have been running (319) is approaching the resumption interval (347) - increasing resumption interval to 350
+0319.035 (0) A useful amount of data was added after this amount of zip processing: 2.9 s (normalised: 2.3 s, rate: 88707.8 KB/s)
+0319.048 (0) Performance is good - but we will not increase the amount of data we batch, as we are already at the present limit (time=2.9251699447632, normalised_time=2.3087039342553, max_time=319.04708695412, data points known=1, max_bytes=209715200)
+0319.056 (0) Zip size is at/near split limit (495.9 MB / 400 MB) - bumping index (from: 1)
+0325.515 (0) Creating zip file manifest (backup_2024-08-12-1002_Sammer_18ae7a711862-others2.zip.list-temp.tmp)
+0325.519 (0) Successfully created zip file manifest (size: 1146)
+0325.533 (0) The time we have been running (325.5) is approaching the resumption interval (350) - increasing resumption interval to 356
+0325.540 (0) Created others zip (1) - 507784.9 KB in 4.4 s (116427.4 KB/s) (checksums: sha1: b786d4704dea807dc2d453c4319e88224ce1bb54, sha256: 958e90e5ceed9d6c7c48ad59700c7abb83d584885f2312e5c5842d62d08f4393)
+0325.562 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0325.565 (0) No remote despatch: user chose no remote backup service
+0325.568 (0) Recording as successfully uploaded: backup_2024-08-12-1002_Sammer_18ae7a711862-others2.zip
+0325.575 (0) Deleting zip manifest (backup_2024-08-12-1002_Sammer_18ae7a711862-others2.zip.list.tmp)
+0325.582 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=4, retain_db=30
+0325.588 (0) Number of backup sets in history: 33; groups (db): 1
+0325.591 (0) Examining (for databases) backup set with group_id=0, nonce=8e671b236e46, datestamp=1723449703 (Aug 12 2024 08:01:43)
+0325.593 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0325.596 (0) Examining (for databases) backup set with group_id=0, nonce=37c8f34776ea, datestamp=1722831279 (Aug 05 2024 04:14:39)
+0325.596 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0325.596 (0) Examining (for databases) backup set with group_id=0, nonce=37f887823297, datestamp=1722831157 (Aug 05 2024 04:12:37)
+0325.596 (0) Examining (for databases) backup set with group_id=0, nonce=0643d3092e89, datestamp=1722828837 (Aug 05 2024 03:33:57)
+0325.596 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0325.597 (0) Examining (for databases) backup set with group_id=0, nonce=e7bee3f2fb39, datestamp=1722828595 (Aug 05 2024 03:29:55)
+0325.597 (0) Examining (for databases) backup set with group_id=0, nonce=7b58faf10bca, datestamp=1719916482 (Jul 02 2024 10:34:42)
+0325.597 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0325.597 (0) Examining (for databases) backup set with group_id=0, nonce=a168214e68e7, datestamp=1718851381 (Jun 20 2024 02:43:01)
+0325.597 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0325.600 (0) Examining (for databases) backup set with group_id=0, nonce=0bbed33d5f96, datestamp=1718851065 (Jun 20 2024 02:37:45)
+0325.600 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0325.602 (0) Examining (for databases) backup set with group_id=0, nonce=4d8d6a6a1b67, datestamp=1718850976 (Jun 20 2024 02:36:16)
+0325.603 (0) Examining (for databases) backup set with group_id=0, nonce=61d2771af1c0, datestamp=1717947376 (Jun 09 2024 15:36:16)
+0325.603 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0325.603 (0) Examining (for databases) backup set with group_id=0, nonce=5847dbea7c08, datestamp=1717861252 (Jun 08 2024 15:40:52)
+0325.603 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0325.603 (0) Examining (for databases) backup set with group_id=0, nonce=92572e18c988, datestamp=1717732550 (Jun 07 2024 03:55:50)
+0325.603 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0325.603 (0) Examining (for databases) backup set with group_id=0, nonce=f009c121e9a2, datestamp=1717650150 (Jun 06 2024 05:02:30)
+0325.603 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0325.603 (0) Examining (for databases) backup set with group_id=0, nonce=4972e8c7fe3e, datestamp=1717255472 (Jun 01 2024 15:24:32)
+0325.603 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0325.604 (0) Examining (for databases) backup set with group_id=0, nonce=0ffffb433736, datestamp=1717142135 (May 31 2024 07:55:35)
+0325.604 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0325.604 (0) Examining (for databases) backup set with group_id=0, nonce=99642449f11c, datestamp=1717045234 (May 30 2024 05:00:34)
+0325.604 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0325.604 (0) Examining (for databases) backup set with group_id=0, nonce=5145b0574902, datestamp=1714965929 (May 06 2024 03:25:29)
+0325.604 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0325.604 (0) Examining (for databases) backup set with group_id=0, nonce=dcd236fa2567, datestamp=1714806434 (May 04 2024 07:07:14)
+0325.604 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0325.605 (0) Examining (for databases) backup set with group_id=0, nonce=bd14320eeae5, datestamp=1714720293 (May 03 2024 07:11:33)
+0325.605 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0325.605 (0) Examining (for databases) backup set with group_id=0, nonce=27850c4f68b6, datestamp=1711775027 (Mar 30 2024 05:03:47)
+0325.605 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0325.605 (0) Examining (for databases) backup set with group_id=0, nonce=1198ca9caf8a, datestamp=1711733007 (Mar 29 2024 17:23:27)
+0325.605 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0325.605 (0) Examining (for databases) backup set with group_id=0, nonce=1050e4030ff8, datestamp=1709302467 (Mar 01 2024 14:14:27)
+0325.605 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0325.605 (0) Examining (for databases) backup set with group_id=0, nonce=2d62ac4e78f6, datestamp=1709178966 (Feb 29 2024 03:56:06)
+0325.605 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0325.605 (0) Examining (for databases) backup set with group_id=0, nonce=163ae6dff14c, datestamp=1709126220 (Feb 28 2024 13:17:00)
+0325.605 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0325.605 (0) Examining (for databases) backup set with group_id=0, nonce=bab510e6b628, datestamp=1709106003 (Feb 28 2024 07:40:03)
+0325.605 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0325.605 (0) Examining (for databases) backup set with group_id=0, nonce=ef2516e00c73, datestamp=1709019882 (Feb 27 2024 07:44:42)
+0325.605 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0325.606 (0) Examining (for databases) backup set with group_id=0, nonce=7ab5a170f01b, datestamp=1708937764 (Feb 26 2024 08:56:04)
+0325.606 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0325.606 (0) Examining (for databases) backup set with group_id=0, nonce=95a8fbb2db95, datestamp=1708858641 (Feb 25 2024 10:57:21)
+0325.606 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0325.606 (0) Examining (for databases) backup set with group_id=0, nonce=dc517ca6ece2, datestamp=1708714220 (Feb 23 2024 18:50:20)
+0325.606 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0325.606 (0) Examining (for databases) backup set with group_id=0, nonce=2fcafdc2e575, datestamp=1708586180 (Feb 22 2024 07:16:20)
+0325.606 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0325.606 (0) Examining (for databases) backup set with group_id=0, nonce=0e1dfd2a2266, datestamp=1708503202 (Feb 21 2024 08:13:22)
+0325.606 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0325.606 (0) Examining (for databases) backup set with group_id=0, nonce=e7e83174b8cb, datestamp=1708418362 (Feb 20 2024 08:39:22)
+0325.606 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0325.606 (0) Examining (for databases) backup set with group_id=0, nonce=016ee1215a2f, datestamp=1708358542 (Feb 19 2024 16:02:22)
+0325.606 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0325.606 (0) Number of backup sets in history: 33; groups (files): 1
+0325.609 (0) Examining (for files) backup set with nonce=8e671b236e46, datestamp=1723449703 (Aug 12 2024 08:01:43)
+0325.609 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0325.612 (0) Examining (for files) backup set with nonce=37c8f34776ea, datestamp=1722831279 (Aug 05 2024 04:14:39)
+0325.612 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0325.612 (0) Examining (for files) backup set with nonce=37f887823297, datestamp=1722831157 (Aug 05 2024 04:12:37)
+0325.612 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0325.615 (0) Examining (for files) backup set with nonce=0643d3092e89, datestamp=1722828837 (Aug 05 2024 03:33:57)
+0325.615 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0325.618 (0) Examining (for files) backup set with nonce=e7bee3f2fb39, datestamp=1722828595 (Aug 05 2024 03:29:55)
+0325.618 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0325.621 (0) Examining (for files) backup set with nonce=7b58faf10bca, datestamp=1719916482 (Jul 02 2024 10:34:42)
+0325.621 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0325.624 (0) Examining (for files) backup set with nonce=a168214e68e7, datestamp=1718851381 (Jun 20 2024 02:43:01)
+0325.625 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0325.627 (0) Examining (for files) backup set with nonce=0bbed33d5f96, datestamp=1718851065 (Jun 20 2024 02:37:45)
+0325.627 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0325.630 (0) Examining (for files) backup set with nonce=4d8d6a6a1b67, datestamp=1718850976 (Jun 20 2024 02:36:16)
+0325.630 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0325.633 (0) Examining (for files) backup set with nonce=61d2771af1c0, datestamp=1717947376 (Jun 09 2024 15:36:16)
+0325.634 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0325.636 (0) Examining (for files) backup set with nonce=5847dbea7c08, datestamp=1717861252 (Jun 08 2024 15:40:52)
+0325.636 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0325.636 (0) Examining (for files) backup set with nonce=92572e18c988, datestamp=1717732550 (Jun 07 2024 03:55:50)
+0325.636 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0325.637 (0) Examining (for files) backup set with nonce=f009c121e9a2, datestamp=1717650150 (Jun 06 2024 05:02:30)
+0325.637 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0325.637 (0) Examining (for files) backup set with nonce=4972e8c7fe3e, datestamp=1717255472 (Jun 01 2024 15:24:32)
+0325.637 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0325.637 (0) Examining (for files) backup set with nonce=0ffffb433736, datestamp=1717142135 (May 31 2024 07:55:35)
+0325.637 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0325.637 (0) Examining (for files) backup set with nonce=99642449f11c, datestamp=1717045234 (May 30 2024 05:00:34)
+0325.637 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0325.638 (0) Examining (for files) backup set with nonce=5145b0574902, datestamp=1714965929 (May 06 2024 03:25:29)
+0325.638 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0325.638 (0) Examining (for files) backup set with nonce=dcd236fa2567, datestamp=1714806434 (May 04 2024 07:07:14)
+0325.638 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0325.638 (0) Examining (for files) backup set with nonce=bd14320eeae5, datestamp=1714720293 (May 03 2024 07:11:33)
+0325.638 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0325.638 (0) Examining (for files) backup set with nonce=27850c4f68b6, datestamp=1711775027 (Mar 30 2024 05:03:47)
+0325.638 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0325.639 (0) Examining (for files) backup set with nonce=1198ca9caf8a, datestamp=1711733007 (Mar 29 2024 17:23:27)
+0325.639 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0325.639 (0) Examining (for files) backup set with nonce=1050e4030ff8, datestamp=1709302467 (Mar 01 2024 14:14:27)
+0325.639 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0325.639 (0) Examining (for files) backup set with nonce=2d62ac4e78f6, datestamp=1709178966 (Feb 29 2024 03:56:06)
+0325.639 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0325.639 (0) Examining (for files) backup set with nonce=163ae6dff14c, datestamp=1709126220 (Feb 28 2024 13:17:00)
+0325.639 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0325.640 (0) Examining (for files) backup set with nonce=bab510e6b628, datestamp=1709106003 (Feb 28 2024 07:40:03)
+0325.640 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0325.640 (0) Examining (for files) backup set with nonce=ef2516e00c73, datestamp=1709019882 (Feb 27 2024 07:44:42)
+0325.640 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0325.640 (0) Examining (for files) backup set with nonce=7ab5a170f01b, datestamp=1708937764 (Feb 26 2024 08:56:04)
+0325.640 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0325.640 (0) Examining (for files) backup set with nonce=95a8fbb2db95, datestamp=1708858641 (Feb 25 2024 10:57:21)
+0325.640 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0325.641 (0) Examining (for files) backup set with nonce=dc517ca6ece2, datestamp=1708714220 (Feb 23 2024 18:50:20)
+0325.641 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0325.641 (0) Examining (for files) backup set with nonce=2fcafdc2e575, datestamp=1708586180 (Feb 22 2024 07:16:20)
+0325.641 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0325.641 (0) Examining (for files) backup set with nonce=0e1dfd2a2266, datestamp=1708503202 (Feb 21 2024 08:13:22)
+0325.641 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0325.641 (0) Examining (for files) backup set with nonce=e7e83174b8cb, datestamp=1708418362 (Feb 20 2024 08:39:22)
+0325.641 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0325.641 (0) Examining (for files) backup set with nonce=016ee1215a2f, datestamp=1708358542 (Feb 19 2024 16:02:22)
+0325.641 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0325.642 (0) Retain: saving new backup history (sets now: 33) and finishing retain operation
+0325.653 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.1 MB, 1 (25) files added so far); re-opening (prior size: 0 KB)
+0325.824 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 200 MB added on this batch (252.9 MB, 294 files batched, 5 (30) added so far); re-opening (prior size: 15.3 KB)
+0328.232 (0) The time we have been running (328.2) is approaching the resumption interval (356) - increasing resumption interval to 359
+0328.240 (0) A useful amount of data was added after this amount of zip processing: 3.1 s (normalised: 2.5 s, rate: 82753.4 KB/s)
+0328.243 (0) Performance is good - but we will not increase the amount of data we batch, as we are already at the present limit (time=3.1297979354858, normalised_time=2.4748232492509, max_time=328.2422440052, data points known=1, max_bytes=209715200)
+0328.251 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 200 MB added on this batch (232.2 MB, 294 files batched, 6 (36) added so far); re-opening (prior size: 258956.6 KB)
+0332.968 (0) The time we have been running (333) is approaching the resumption interval (359) - increasing resumption interval to 363
+0332.977 (0) A useful amount of data was added after this amount of zip processing: 4.9 s (normalised: 4.2 s, rate: 48854.2 KB/s)
+0332.980 (0) Performance is good - but we will not increase the amount of data we batch, as we are already at the present limit (time=4.8666870594025, normalised_time=4.1920677015289, max_time=332.97945189476, data points known=1, max_bytes=209715200)
+0332.987 (0) Zip size is at/near split limit (485 MB / 400 MB) - bumping index (from: 2)
+0341.140 (0) Creating zip file manifest (backup_2024-08-12-1002_Sammer_18ae7a711862-others3.zip.list-temp.tmp)
+0341.144 (0) Successfully created zip file manifest (size: 1146)
+0341.163 (0) The time we have been running (341.1) is approaching the resumption interval (363) - increasing resumption interval to 372
+0341.169 (0) Created others zip (2) - 496596.2 KB in 7.4 s (66678.5 KB/s) (checksums: sha1: bf24d560cd8de0973a8a4d9b330b9d8f7523dee5, sha256: f8b59006648fe9f2f854a15ce8a2a9bfc0d11bfb34dfe6834a0751f2eef162dd)
+0341.196 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0341.199 (0) No remote despatch: user chose no remote backup service
+0341.207 (0) Recording as successfully uploaded: backup_2024-08-12-1002_Sammer_18ae7a711862-others3.zip
+0341.218 (0) Deleting zip manifest (backup_2024-08-12-1002_Sammer_18ae7a711862-others3.zip.list.tmp)
+0341.225 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=4, retain_db=30
+0341.233 (0) Number of backup sets in history: 33; groups (db): 1
+0341.238 (0) Examining (for databases) backup set with group_id=0, nonce=8e671b236e46, datestamp=1723449703 (Aug 12 2024 08:01:43)
+0341.242 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0341.245 (0) Examining (for databases) backup set with group_id=0, nonce=37c8f34776ea, datestamp=1722831279 (Aug 05 2024 04:14:39)
+0341.245 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0341.245 (0) Examining (for databases) backup set with group_id=0, nonce=37f887823297, datestamp=1722831157 (Aug 05 2024 04:12:37)
+0341.245 (0) Examining (for databases) backup set with group_id=0, nonce=0643d3092e89, datestamp=1722828837 (Aug 05 2024 03:33:57)
+0341.245 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0341.245 (0) Examining (for databases) backup set with group_id=0, nonce=e7bee3f2fb39, datestamp=1722828595 (Aug 05 2024 03:29:55)
+0341.245 (0) Examining (for databases) backup set with group_id=0, nonce=7b58faf10bca, datestamp=1719916482 (Jul 02 2024 10:34:42)
+0341.245 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0341.246 (0) Examining (for databases) backup set with group_id=0, nonce=a168214e68e7, datestamp=1718851381 (Jun 20 2024 02:43:01)
+0341.246 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0341.248 (0) Examining (for databases) backup set with group_id=0, nonce=0bbed33d5f96, datestamp=1718851065 (Jun 20 2024 02:37:45)
+0341.249 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0341.251 (0) Examining (for databases) backup set with group_id=0, nonce=4d8d6a6a1b67, datestamp=1718850976 (Jun 20 2024 02:36:16)
+0341.251 (0) Examining (for databases) backup set with group_id=0, nonce=61d2771af1c0, datestamp=1717947376 (Jun 09 2024 15:36:16)
+0341.251 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0341.251 (0) Examining (for databases) backup set with group_id=0, nonce=5847dbea7c08, datestamp=1717861252 (Jun 08 2024 15:40:52)
+0341.251 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0341.251 (0) Examining (for databases) backup set with group_id=0, nonce=92572e18c988, datestamp=1717732550 (Jun 07 2024 03:55:50)
+0341.251 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0341.251 (0) Examining (for databases) backup set with group_id=0, nonce=f009c121e9a2, datestamp=1717650150 (Jun 06 2024 05:02:30)
+0341.251 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0341.251 (0) Examining (for databases) backup set with group_id=0, nonce=4972e8c7fe3e, datestamp=1717255472 (Jun 01 2024 15:24:32)
+0341.251 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0341.251 (0) Examining (for databases) backup set with group_id=0, nonce=0ffffb433736, datestamp=1717142135 (May 31 2024 07:55:35)
+0341.252 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0341.252 (0) Examining (for databases) backup set with group_id=0, nonce=99642449f11c, datestamp=1717045234 (May 30 2024 05:00:34)
+0341.252 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0341.252 (0) Examining (for databases) backup set with group_id=0, nonce=5145b0574902, datestamp=1714965929 (May 06 2024 03:25:29)
+0341.252 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0341.252 (0) Examining (for databases) backup set with group_id=0, nonce=dcd236fa2567, datestamp=1714806434 (May 04 2024 07:07:14)
+0341.252 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0341.252 (0) Examining (for databases) backup set with group_id=0, nonce=bd14320eeae5, datestamp=1714720293 (May 03 2024 07:11:33)
+0341.252 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0341.252 (0) Examining (for databases) backup set with group_id=0, nonce=27850c4f68b6, datestamp=1711775027 (Mar 30 2024 05:03:47)
+0341.252 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0341.252 (0) Examining (for databases) backup set with group_id=0, nonce=1198ca9caf8a, datestamp=1711733007 (Mar 29 2024 17:23:27)
+0341.252 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0341.252 (0) Examining (for databases) backup set with group_id=0, nonce=1050e4030ff8, datestamp=1709302467 (Mar 01 2024 14:14:27)
+0341.252 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0341.252 (0) Examining (for databases) backup set with group_id=0, nonce=2d62ac4e78f6, datestamp=1709178966 (Feb 29 2024 03:56:06)
+0341.252 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0341.253 (0) Examining (for databases) backup set with group_id=0, nonce=163ae6dff14c, datestamp=1709126220 (Feb 28 2024 13:17:00)
+0341.253 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0341.253 (0) Examining (for databases) backup set with group_id=0, nonce=bab510e6b628, datestamp=1709106003 (Feb 28 2024 07:40:03)
+0341.254 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0341.255 (0) Examining (for databases) backup set with group_id=0, nonce=ef2516e00c73, datestamp=1709019882 (Feb 27 2024 07:44:42)
+0341.255 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0341.255 (0) Examining (for databases) backup set with group_id=0, nonce=7ab5a170f01b, datestamp=1708937764 (Feb 26 2024 08:56:04)
+0341.255 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0341.255 (0) Examining (for databases) backup set with group_id=0, nonce=95a8fbb2db95, datestamp=1708858641 (Feb 25 2024 10:57:21)
+0341.256 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0341.256 (0) Examining (for databases) backup set with group_id=0, nonce=dc517ca6ece2, datestamp=1708714220 (Feb 23 2024 18:50:20)
+0341.256 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0341.256 (0) Examining (for databases) backup set with group_id=0, nonce=2fcafdc2e575, datestamp=1708586180 (Feb 22 2024 07:16:20)
+0341.256 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0341.256 (0) Examining (for databases) backup set with group_id=0, nonce=0e1dfd2a2266, datestamp=1708503202 (Feb 21 2024 08:13:22)
+0341.256 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0341.257 (0) Examining (for databases) backup set with group_id=0, nonce=e7e83174b8cb, datestamp=1708418362 (Feb 20 2024 08:39:22)
+0341.257 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0341.257 (0) Examining (for databases) backup set with group_id=0, nonce=016ee1215a2f, datestamp=1708358542 (Feb 19 2024 16:02:22)
+0341.257 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0341.257 (0) Number of backup sets in history: 33; groups (files): 1
+0341.260 (0) Examining (for files) backup set with nonce=8e671b236e46, datestamp=1723449703 (Aug 12 2024 08:01:43)
+0341.260 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0341.263 (0) Examining (for files) backup set with nonce=37c8f34776ea, datestamp=1722831279 (Aug 05 2024 04:14:39)
+0341.263 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0341.263 (0) Examining (for files) backup set with nonce=37f887823297, datestamp=1722831157 (Aug 05 2024 04:12:37)
+0341.263 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0341.266 (0) Examining (for files) backup set with nonce=0643d3092e89, datestamp=1722828837 (Aug 05 2024 03:33:57)
+0341.266 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0341.269 (0) Examining (for files) backup set with nonce=e7bee3f2fb39, datestamp=1722828595 (Aug 05 2024 03:29:55)
+0341.269 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0341.273 (0) Examining (for files) backup set with nonce=7b58faf10bca, datestamp=1719916482 (Jul 02 2024 10:34:42)
+0341.273 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0341.275 (0) Examining (for files) backup set with nonce=a168214e68e7, datestamp=1718851381 (Jun 20 2024 02:43:01)
+0341.275 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0341.278 (0) Examining (for files) backup set with nonce=0bbed33d5f96, datestamp=1718851065 (Jun 20 2024 02:37:45)
+0341.278 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0341.281 (0) Examining (for files) backup set with nonce=4d8d6a6a1b67, datestamp=1718850976 (Jun 20 2024 02:36:16)
+0341.281 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0341.284 (0) Examining (for files) backup set with nonce=61d2771af1c0, datestamp=1717947376 (Jun 09 2024 15:36:16)
+0341.284 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0341.288 (0) Examining (for files) backup set with nonce=5847dbea7c08, datestamp=1717861252 (Jun 08 2024 15:40:52)
+0341.288 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0341.289 (0) Examining (for files) backup set with nonce=92572e18c988, datestamp=1717732550 (Jun 07 2024 03:55:50)
+0341.289 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0341.289 (0) Examining (for files) backup set with nonce=f009c121e9a2, datestamp=1717650150 (Jun 06 2024 05:02:30)
+0341.289 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0341.289 (0) Examining (for files) backup set with nonce=4972e8c7fe3e, datestamp=1717255472 (Jun 01 2024 15:24:32)
+0341.289 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0341.290 (0) Examining (for files) backup set with nonce=0ffffb433736, datestamp=1717142135 (May 31 2024 07:55:35)
+0341.290 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0341.290 (0) Examining (for files) backup set with nonce=99642449f11c, datestamp=1717045234 (May 30 2024 05:00:34)
+0341.290 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0341.290 (0) Examining (for files) backup set with nonce=5145b0574902, datestamp=1714965929 (May 06 2024 03:25:29)
+0341.290 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0341.290 (0) Examining (for files) backup set with nonce=dcd236fa2567, datestamp=1714806434 (May 04 2024 07:07:14)
+0341.290 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0341.290 (0) Examining (for files) backup set with nonce=bd14320eeae5, datestamp=1714720293 (May 03 2024 07:11:33)
+0341.290 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0341.291 (0) Examining (for files) backup set with nonce=27850c4f68b6, datestamp=1711775027 (Mar 30 2024 05:03:47)
+0341.291 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0341.291 (0) Examining (for files) backup set with nonce=1198ca9caf8a, datestamp=1711733007 (Mar 29 2024 17:23:27)
+0341.291 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0341.291 (0) Examining (for files) backup set with nonce=1050e4030ff8, datestamp=1709302467 (Mar 01 2024 14:14:27)
+0341.291 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0341.291 (0) Examining (for files) backup set with nonce=2d62ac4e78f6, datestamp=1709178966 (Feb 29 2024 03:56:06)
+0341.291 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0341.292 (0) Examining (for files) backup set with nonce=163ae6dff14c, datestamp=1709126220 (Feb 28 2024 13:17:00)
+0341.292 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0341.292 (0) Examining (for files) backup set with nonce=bab510e6b628, datestamp=1709106003 (Feb 28 2024 07:40:03)
+0341.292 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0341.292 (0) Examining (for files) backup set with nonce=ef2516e00c73, datestamp=1709019882 (Feb 27 2024 07:44:42)
+0341.292 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0341.292 (0) Examining (for files) backup set with nonce=7ab5a170f01b, datestamp=1708937764 (Feb 26 2024 08:56:04)
+0341.292 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0341.292 (0) Examining (for files) backup set with nonce=95a8fbb2db95, datestamp=1708858641 (Feb 25 2024 10:57:21)
+0341.292 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0341.293 (0) Examining (for files) backup set with nonce=dc517ca6ece2, datestamp=1708714220 (Feb 23 2024 18:50:20)
+0341.293 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0341.293 (0) Examining (for files) backup set with nonce=2fcafdc2e575, datestamp=1708586180 (Feb 22 2024 07:16:20)
+0341.293 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0341.293 (0) Examining (for files) backup set with nonce=0e1dfd2a2266, datestamp=1708503202 (Feb 21 2024 08:13:22)
+0341.293 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0341.293 (0) Examining (for files) backup set with nonce=e7e83174b8cb, datestamp=1708418362 (Feb 20 2024 08:39:22)
+0341.293 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0341.293 (0) Examining (for files) backup set with nonce=016ee1215a2f, datestamp=1708358542 (Feb 19 2024 16:02:22)
+0341.293 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0341.294 (0) Retain: saving new backup history (sets now: 33) and finishing retain operation
+0341.308 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.1 MB, 1 (37) files added so far); re-opening (prior size: 0 KB)
+0341.538 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 200 MB added on this batch (306.1 MB, 294 files batched, 8 (45) added so far); re-opening (prior size: 15.4 KB)
+0345.269 (0) The time we have been running (345.3) is approaching the resumption interval (372) - increasing resumption interval to 376
+0345.295 (0) A useful amount of data was added after this amount of zip processing: 4.2 s (normalised: 2.7 s, rate: 74902.9 KB/s)
+0345.320 (0) Performance is good - but we will not increase the amount of data we batch, as we are already at the present limit (time=4.1850869655609, normalised_time=2.7342074137659, max_time=345.31911587715, data points known=1, max_bytes=209715200)
+0345.400 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): possibly approaching split limit (114.2 MB, 3 (48) files added so far); last ratio: 0.9996; re-opening (prior size: 313371.1 KB)
+0349.010 (0) The time we have been running (349) is approaching the resumption interval (376) - increasing resumption interval to 379
+0349.035 (0) Zip size is at/near split limit (420.2 MB / 400 MB) - bumping index (from: 3)
+0356.180 (0) Creating zip file manifest (backup_2024-08-12-1002_Sammer_18ae7a711862-others4.zip.list-temp.tmp)
+0356.184 (0) Successfully created zip file manifest (size: 1145)
+0356.196 (0) The time we have been running (356.2) is approaching the resumption interval (379) - increasing resumption interval to 387
+0356.203 (0) Created others zip (3) - 430300.8 KB in 7.9 s (54620.3 KB/s) (checksums: sha1: 04b60d7b503788fc244321b8f19f0eb5eb5db87c, sha256: e57abe307f4824b8e9b15e36af3d2e60147d18ed1d856ae5682888c4ad0f4c87)
+0356.225 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0356.228 (0) No remote despatch: user chose no remote backup service
+0356.231 (0) Recording as successfully uploaded: backup_2024-08-12-1002_Sammer_18ae7a711862-others4.zip
+0356.238 (0) Deleting zip manifest (backup_2024-08-12-1002_Sammer_18ae7a711862-others4.zip.list.tmp)
+0356.245 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=4, retain_db=30
+0356.250 (0) Number of backup sets in history: 33; groups (db): 1
+0356.253 (0) Examining (for databases) backup set with group_id=0, nonce=8e671b236e46, datestamp=1723449703 (Aug 12 2024 08:01:43)
+0356.256 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0356.259 (0) Examining (for databases) backup set with group_id=0, nonce=37c8f34776ea, datestamp=1722831279 (Aug 05 2024 04:14:39)
+0356.259 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0356.259 (0) Examining (for databases) backup set with group_id=0, nonce=37f887823297, datestamp=1722831157 (Aug 05 2024 04:12:37)
+0356.259 (0) Examining (for databases) backup set with group_id=0, nonce=0643d3092e89, datestamp=1722828837 (Aug 05 2024 03:33:57)
+0356.259 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0356.259 (0) Examining (for databases) backup set with group_id=0, nonce=e7bee3f2fb39, datestamp=1722828595 (Aug 05 2024 03:29:55)
+0356.259 (0) Examining (for databases) backup set with group_id=0, nonce=7b58faf10bca, datestamp=1719916482 (Jul 02 2024 10:34:42)
+0356.259 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0356.259 (0) Examining (for databases) backup set with group_id=0, nonce=a168214e68e7, datestamp=1718851381 (Jun 20 2024 02:43:01)
+0356.259 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0356.262 (0) Examining (for databases) backup set with group_id=0, nonce=0bbed33d5f96, datestamp=1718851065 (Jun 20 2024 02:37:45)
+0356.262 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0356.265 (0) Examining (for databases) backup set with group_id=0, nonce=4d8d6a6a1b67, datestamp=1718850976 (Jun 20 2024 02:36:16)
+0356.265 (0) Examining (for databases) backup set with group_id=0, nonce=61d2771af1c0, datestamp=1717947376 (Jun 09 2024 15:36:16)
+0356.265 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0356.265 (0) Examining (for databases) backup set with group_id=0, nonce=5847dbea7c08, datestamp=1717861252 (Jun 08 2024 15:40:52)
+0356.265 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0356.265 (0) Examining (for databases) backup set with group_id=0, nonce=92572e18c988, datestamp=1717732550 (Jun 07 2024 03:55:50)
+0356.266 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0356.266 (0) Examining (for databases) backup set with group_id=0, nonce=f009c121e9a2, datestamp=1717650150 (Jun 06 2024 05:02:30)
+0356.266 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0356.266 (0) Examining (for databases) backup set with group_id=0, nonce=4972e8c7fe3e, datestamp=1717255472 (Jun 01 2024 15:24:32)
+0356.266 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0356.267 (0) Examining (for databases) backup set with group_id=0, nonce=0ffffb433736, datestamp=1717142135 (May 31 2024 07:55:35)
+0356.267 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0356.267 (0) Examining (for databases) backup set with group_id=0, nonce=99642449f11c, datestamp=1717045234 (May 30 2024 05:00:34)
+0356.267 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0356.267 (0) Examining (for databases) backup set with group_id=0, nonce=5145b0574902, datestamp=1714965929 (May 06 2024 03:25:29)
+0356.267 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0356.267 (0) Examining (for databases) backup set with group_id=0, nonce=dcd236fa2567, datestamp=1714806434 (May 04 2024 07:07:14)
+0356.267 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0356.267 (0) Examining (for databases) backup set with group_id=0, nonce=bd14320eeae5, datestamp=1714720293 (May 03 2024 07:11:33)
+0356.267 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0356.268 (0) Examining (for databases) backup set with group_id=0, nonce=27850c4f68b6, datestamp=1711775027 (Mar 30 2024 05:03:47)
+0356.268 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0356.268 (0) Examining (for databases) backup set with group_id=0, nonce=1198ca9caf8a, datestamp=1711733007 (Mar 29 2024 17:23:27)
+0356.268 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0356.268 (0) Examining (for databases) backup set with group_id=0, nonce=1050e4030ff8, datestamp=1709302467 (Mar 01 2024 14:14:27)
+0356.268 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0356.268 (0) Examining (for databases) backup set with group_id=0, nonce=2d62ac4e78f6, datestamp=1709178966 (Feb 29 2024 03:56:06)
+0356.268 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0356.268 (0) Examining (for databases) backup set with group_id=0, nonce=163ae6dff14c, datestamp=1709126220 (Feb 28 2024 13:17:00)
+0356.268 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0356.268 (0) Examining (for databases) backup set with group_id=0, nonce=bab510e6b628, datestamp=1709106003 (Feb 28 2024 07:40:03)
+0356.268 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0356.269 (0) Examining (for databases) backup set with group_id=0, nonce=ef2516e00c73, datestamp=1709019882 (Feb 27 2024 07:44:42)
+0356.269 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0356.269 (0) Examining (for databases) backup set with group_id=0, nonce=7ab5a170f01b, datestamp=1708937764 (Feb 26 2024 08:56:04)
+0356.269 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0356.269 (0) Examining (for databases) backup set with group_id=0, nonce=95a8fbb2db95, datestamp=1708858641 (Feb 25 2024 10:57:21)
+0356.269 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0356.269 (0) Examining (for databases) backup set with group_id=0, nonce=dc517ca6ece2, datestamp=1708714220 (Feb 23 2024 18:50:20)
+0356.269 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0356.269 (0) Examining (for databases) backup set with group_id=0, nonce=2fcafdc2e575, datestamp=1708586180 (Feb 22 2024 07:16:20)
+0356.269 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0356.269 (0) Examining (for databases) backup set with group_id=0, nonce=0e1dfd2a2266, datestamp=1708503202 (Feb 21 2024 08:13:22)
+0356.269 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0356.269 (0) Examining (for databases) backup set with group_id=0, nonce=e7e83174b8cb, datestamp=1708418362 (Feb 20 2024 08:39:22)
+0356.269 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0356.269 (0) Examining (for databases) backup set with group_id=0, nonce=016ee1215a2f, datestamp=1708358542 (Feb 19 2024 16:02:22)
+0356.269 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0356.269 (0) Number of backup sets in history: 33; groups (files): 1
+0356.272 (0) Examining (for files) backup set with nonce=8e671b236e46, datestamp=1723449703 (Aug 12 2024 08:01:43)
+0356.272 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0356.275 (0) Examining (for files) backup set with nonce=37c8f34776ea, datestamp=1722831279 (Aug 05 2024 04:14:39)
+0356.275 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0356.275 (0) Examining (for files) backup set with nonce=37f887823297, datestamp=1722831157 (Aug 05 2024 04:12:37)
+0356.275 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0356.278 (0) Examining (for files) backup set with nonce=0643d3092e89, datestamp=1722828837 (Aug 05 2024 03:33:57)
+0356.278 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0356.280 (0) Examining (for files) backup set with nonce=e7bee3f2fb39, datestamp=1722828595 (Aug 05 2024 03:29:55)
+0356.280 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0356.283 (0) Examining (for files) backup set with nonce=7b58faf10bca, datestamp=1719916482 (Jul 02 2024 10:34:42)
+0356.283 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0356.286 (0) Examining (for files) backup set with nonce=a168214e68e7, datestamp=1718851381 (Jun 20 2024 02:43:01)
+0356.286 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0356.289 (0) Examining (for files) backup set with nonce=0bbed33d5f96, datestamp=1718851065 (Jun 20 2024 02:37:45)
+0356.289 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0356.292 (0) Examining (for files) backup set with nonce=4d8d6a6a1b67, datestamp=1718850976 (Jun 20 2024 02:36:16)
+0356.292 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0356.295 (0) Examining (for files) backup set with nonce=61d2771af1c0, datestamp=1717947376 (Jun 09 2024 15:36:16)
+0356.295 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0356.298 (0) Examining (for files) backup set with nonce=5847dbea7c08, datestamp=1717861252 (Jun 08 2024 15:40:52)
+0356.298 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0356.299 (0) Examining (for files) backup set with nonce=92572e18c988, datestamp=1717732550 (Jun 07 2024 03:55:50)
+0356.299 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0356.299 (0) Examining (for files) backup set with nonce=f009c121e9a2, datestamp=1717650150 (Jun 06 2024 05:02:30)
+0356.299 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0356.299 (0) Examining (for files) backup set with nonce=4972e8c7fe3e, datestamp=1717255472 (Jun 01 2024 15:24:32)
+0356.299 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0356.299 (0) Examining (for files) backup set with nonce=0ffffb433736, datestamp=1717142135 (May 31 2024 07:55:35)
+0356.299 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0356.299 (0) Examining (for files) backup set with nonce=99642449f11c, datestamp=1717045234 (May 30 2024 05:00:34)
+0356.299 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0356.299 (0) Examining (for files) backup set with nonce=5145b0574902, datestamp=1714965929 (May 06 2024 03:25:29)
+0356.299 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0356.299 (0) Examining (for files) backup set with nonce=dcd236fa2567, datestamp=1714806434 (May 04 2024 07:07:14)
+0356.299 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0356.299 (0) Examining (for files) backup set with nonce=bd14320eeae5, datestamp=1714720293 (May 03 2024 07:11:33)
+0356.299 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0356.299 (0) Examining (for files) backup set with nonce=27850c4f68b6, datestamp=1711775027 (Mar 30 2024 05:03:47)
+0356.299 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0356.300 (0) Examining (for files) backup set with nonce=1198ca9caf8a, datestamp=1711733007 (Mar 29 2024 17:23:27)
+0356.300 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0356.300 (0) Examining (for files) backup set with nonce=1050e4030ff8, datestamp=1709302467 (Mar 01 2024 14:14:27)
+0356.300 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0356.300 (0) Examining (for files) backup set with nonce=2d62ac4e78f6, datestamp=1709178966 (Feb 29 2024 03:56:06)
+0356.300 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0356.300 (0) Examining (for files) backup set with nonce=163ae6dff14c, datestamp=1709126220 (Feb 28 2024 13:17:00)
+0356.300 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0356.300 (0) Examining (for files) backup set with nonce=bab510e6b628, datestamp=1709106003 (Feb 28 2024 07:40:03)
+0356.300 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0356.300 (0) Examining (for files) backup set with nonce=ef2516e00c73, datestamp=1709019882 (Feb 27 2024 07:44:42)
+0356.300 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0356.300 (0) Examining (for files) backup set with nonce=7ab5a170f01b, datestamp=1708937764 (Feb 26 2024 08:56:04)
+0356.300 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0356.300 (0) Examining (for files) backup set with nonce=95a8fbb2db95, datestamp=1708858641 (Feb 25 2024 10:57:21)
+0356.300 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0356.300 (0) Examining (for files) backup set with nonce=dc517ca6ece2, datestamp=1708714220 (Feb 23 2024 18:50:20)
+0356.300 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0356.300 (0) Examining (for files) backup set with nonce=2fcafdc2e575, datestamp=1708586180 (Feb 22 2024 07:16:20)
+0356.300 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0356.301 (0) Examining (for files) backup set with nonce=0e1dfd2a2266, datestamp=1708503202 (Feb 21 2024 08:13:22)
+0356.301 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0356.301 (0) Examining (for files) backup set with nonce=e7e83174b8cb, datestamp=1708418362 (Feb 20 2024 08:39:22)
+0356.301 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0356.301 (0) Examining (for files) backup set with nonce=016ee1215a2f, datestamp=1708358542 (Feb 19 2024 16:02:22)
+0356.301 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0356.301 (0) Retain: saving new backup history (sets now: 33) and finishing retain operation
+0356.314 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.1 MB, 1 (49) files added so far); re-opening (prior size: 0 KB)
+0356.488 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 200 MB added on this batch (252.5 MB, 294 files batched, 5 (54) added so far); re-opening (prior size: 15.4 KB)
+0359.754 (0) The time we have been running (359.7) is approaching the resumption interval (387) - increasing resumption interval to 390
+0359.796 (0) A useful amount of data was added after this amount of zip processing: 3.7 s (normalised: 2.9 s, rate: 70150.2 KB/s)
+0359.816 (0) Performance is good - but we will not increase the amount of data we batch, as we are already at the present limit (time=3.685879945755, normalised_time=2.9194490488974, max_time=359.81527590752, data points known=1, max_bytes=209715200)
+0359.881 (0) Zip: backup_2024-08-12-1002_Sammer_18ae7a711862-others5.zip.tmp: 100 files added (on-disk size: 258520.5 KB)
+0359.902 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): possibly approaching split limit (134.3 MB, 92 (146) files added so far); last ratio: 0.9998; re-opening (prior size: 258520.5 KB)
+0365.705 (0) The time we have been running (365.7) is approaching the resumption interval (390) - increasing resumption interval to 396
+0365.714 (0) Zip size is at/near split limit (381.3 MB / 400 MB) - bumping index (from: 4)
+0371.619 (0) Creating zip file manifest (backup_2024-08-12-1002_Sammer_18ae7a711862-others5.zip.list-temp.tmp)
+0371.626 (0) Successfully created zip file manifest (size: 8356)
+0371.640 (0) The time we have been running (371.6) is approaching the resumption interval (396) - increasing resumption interval to 402
+0371.647 (0) Created others zip (4) - 390407.2 KB in 9.5 s (41044 KB/s) (checksums: sha1: 59fea5e7012a3e78a791799dc82861c90878ff68, sha256: 3f6375e144e5bd9d5ac6eeae67a9c09c58955c3a473ede15565093d50ae8c73a)
+0371.666 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0371.669 (0) No remote despatch: user chose no remote backup service
+0371.673 (0) Recording as successfully uploaded: backup_2024-08-12-1002_Sammer_18ae7a711862-others5.zip
+0371.681 (0) Deleting zip manifest (backup_2024-08-12-1002_Sammer_18ae7a711862-others5.zip.list.tmp)
+0371.688 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=4, retain_db=30
+0371.693 (0) Number of backup sets in history: 33; groups (db): 1
+0371.696 (0) Examining (for databases) backup set with group_id=0, nonce=8e671b236e46, datestamp=1723449703 (Aug 12 2024 08:01:43)
+0371.698 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0371.701 (0) Examining (for databases) backup set with group_id=0, nonce=37c8f34776ea, datestamp=1722831279 (Aug 05 2024 04:14:39)
+0371.701 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0371.701 (0) Examining (for databases) backup set with group_id=0, nonce=37f887823297, datestamp=1722831157 (Aug 05 2024 04:12:37)
+0371.701 (0) Examining (for databases) backup set with group_id=0, nonce=0643d3092e89, datestamp=1722828837 (Aug 05 2024 03:33:57)
+0371.701 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0371.702 (0) Examining (for databases) backup set with group_id=0, nonce=e7bee3f2fb39, datestamp=1722828595 (Aug 05 2024 03:29:55)
+0371.702 (0) Examining (for databases) backup set with group_id=0, nonce=7b58faf10bca, datestamp=1719916482 (Jul 02 2024 10:34:42)
+0371.702 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0371.702 (0) Examining (for databases) backup set with group_id=0, nonce=a168214e68e7, datestamp=1718851381 (Jun 20 2024 02:43:01)
+0371.702 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0371.705 (0) Examining (for databases) backup set with group_id=0, nonce=0bbed33d5f96, datestamp=1718851065 (Jun 20 2024 02:37:45)
+0371.705 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0371.708 (0) Examining (for databases) backup set with group_id=0, nonce=4d8d6a6a1b67, datestamp=1718850976 (Jun 20 2024 02:36:16)
+0371.708 (0) Examining (for databases) backup set with group_id=0, nonce=61d2771af1c0, datestamp=1717947376 (Jun 09 2024 15:36:16)
+0371.708 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0371.708 (0) Examining (for databases) backup set with group_id=0, nonce=5847dbea7c08, datestamp=1717861252 (Jun 08 2024 15:40:52)
+0371.708 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0371.708 (0) Examining (for databases) backup set with group_id=0, nonce=92572e18c988, datestamp=1717732550 (Jun 07 2024 03:55:50)
+0371.708 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0371.708 (0) Examining (for databases) backup set with group_id=0, nonce=f009c121e9a2, datestamp=1717650150 (Jun 06 2024 05:02:30)
+0371.708 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0371.709 (0) Examining (for databases) backup set with group_id=0, nonce=4972e8c7fe3e, datestamp=1717255472 (Jun 01 2024 15:24:32)
+0371.709 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0371.709 (0) Examining (for databases) backup set with group_id=0, nonce=0ffffb433736, datestamp=1717142135 (May 31 2024 07:55:35)
+0371.709 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0371.709 (0) Examining (for databases) backup set with group_id=0, nonce=99642449f11c, datestamp=1717045234 (May 30 2024 05:00:34)
+0371.709 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0371.709 (0) Examining (for databases) backup set with group_id=0, nonce=5145b0574902, datestamp=1714965929 (May 06 2024 03:25:29)
+0371.709 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0371.709 (0) Examining (for databases) backup set with group_id=0, nonce=dcd236fa2567, datestamp=1714806434 (May 04 2024 07:07:14)
+0371.709 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0371.709 (0) Examining (for databases) backup set with group_id=0, nonce=bd14320eeae5, datestamp=1714720293 (May 03 2024 07:11:33)
+0371.709 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0371.709 (0) Examining (for databases) backup set with group_id=0, nonce=27850c4f68b6, datestamp=1711775027 (Mar 30 2024 05:03:47)
+0371.709 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0371.709 (0) Examining (for databases) backup set with group_id=0, nonce=1198ca9caf8a, datestamp=1711733007 (Mar 29 2024 17:23:27)
+0371.709 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0371.709 (0) Examining (for databases) backup set with group_id=0, nonce=1050e4030ff8, datestamp=1709302467 (Mar 01 2024 14:14:27)
+0371.709 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0371.709 (0) Examining (for databases) backup set with group_id=0, nonce=2d62ac4e78f6, datestamp=1709178966 (Feb 29 2024 03:56:06)
+0371.710 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0371.710 (0) Examining (for databases) backup set with group_id=0, nonce=163ae6dff14c, datestamp=1709126220 (Feb 28 2024 13:17:00)
+0371.710 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0371.710 (0) Examining (for databases) backup set with group_id=0, nonce=bab510e6b628, datestamp=1709106003 (Feb 28 2024 07:40:03)
+0371.710 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0371.710 (0) Examining (for databases) backup set with group_id=0, nonce=ef2516e00c73, datestamp=1709019882 (Feb 27 2024 07:44:42)
+0371.710 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0371.710 (0) Examining (for databases) backup set with group_id=0, nonce=7ab5a170f01b, datestamp=1708937764 (Feb 26 2024 08:56:04)
+0371.710 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0371.710 (0) Examining (for databases) backup set with group_id=0, nonce=95a8fbb2db95, datestamp=1708858641 (Feb 25 2024 10:57:21)
+0371.710 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0371.710 (0) Examining (for databases) backup set with group_id=0, nonce=dc517ca6ece2, datestamp=1708714220 (Feb 23 2024 18:50:20)
+0371.710 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0371.710 (0) Examining (for databases) backup set with group_id=0, nonce=2fcafdc2e575, datestamp=1708586180 (Feb 22 2024 07:16:20)
+0371.711 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0371.711 (0) Examining (for databases) backup set with group_id=0, nonce=0e1dfd2a2266, datestamp=1708503202 (Feb 21 2024 08:13:22)
+0371.711 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0371.711 (0) Examining (for databases) backup set with group_id=0, nonce=e7e83174b8cb, datestamp=1708418362 (Feb 20 2024 08:39:22)
+0371.711 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0371.711 (0) Examining (for databases) backup set with group_id=0, nonce=016ee1215a2f, datestamp=1708358542 (Feb 19 2024 16:02:22)
+0371.711 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0371.712 (0) Number of backup sets in history: 33; groups (files): 1
+0371.716 (0) Examining (for files) backup set with nonce=8e671b236e46, datestamp=1723449703 (Aug 12 2024 08:01:43)
+0371.716 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0371.718 (0) Examining (for files) backup set with nonce=37c8f34776ea, datestamp=1722831279 (Aug 05 2024 04:14:39)
+0371.718 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0371.719 (0) Examining (for files) backup set with nonce=37f887823297, datestamp=1722831157 (Aug 05 2024 04:12:37)
+0371.719 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0371.724 (0) Examining (for files) backup set with nonce=0643d3092e89, datestamp=1722828837 (Aug 05 2024 03:33:57)
+0371.724 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0371.728 (0) Examining (for files) backup set with nonce=e7bee3f2fb39, datestamp=1722828595 (Aug 05 2024 03:29:55)
+0371.728 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0371.732 (0) Examining (for files) backup set with nonce=7b58faf10bca, datestamp=1719916482 (Jul 02 2024 10:34:42)
+0371.732 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0371.735 (0) Examining (for files) backup set with nonce=a168214e68e7, datestamp=1718851381 (Jun 20 2024 02:43:01)
+0371.735 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0371.738 (0) Examining (for files) backup set with nonce=0bbed33d5f96, datestamp=1718851065 (Jun 20 2024 02:37:45)
+0371.738 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0371.741 (0) Examining (for files) backup set with nonce=4d8d6a6a1b67, datestamp=1718850976 (Jun 20 2024 02:36:16)
+0371.742 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0371.744 (0) Examining (for files) backup set with nonce=61d2771af1c0, datestamp=1717947376 (Jun 09 2024 15:36:16)
+0371.744 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0371.746 (0) Examining (for files) backup set with nonce=5847dbea7c08, datestamp=1717861252 (Jun 08 2024 15:40:52)
+0371.746 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0371.746 (0) Examining (for files) backup set with nonce=92572e18c988, datestamp=1717732550 (Jun 07 2024 03:55:50)
+0371.746 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0371.746 (0) Examining (for files) backup set with nonce=f009c121e9a2, datestamp=1717650150 (Jun 06 2024 05:02:30)
+0371.746 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0371.747 (0) Examining (for files) backup set with nonce=4972e8c7fe3e, datestamp=1717255472 (Jun 01 2024 15:24:32)
+0371.747 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0371.747 (0) Examining (for files) backup set with nonce=0ffffb433736, datestamp=1717142135 (May 31 2024 07:55:35)
+0371.747 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0371.747 (0) Examining (for files) backup set with nonce=99642449f11c, datestamp=1717045234 (May 30 2024 05:00:34)
+0371.747 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0371.747 (0) Examining (for files) backup set with nonce=5145b0574902, datestamp=1714965929 (May 06 2024 03:25:29)
+0371.747 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0371.747 (0) Examining (for files) backup set with nonce=dcd236fa2567, datestamp=1714806434 (May 04 2024 07:07:14)
+0371.747 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0371.747 (0) Examining (for files) backup set with nonce=bd14320eeae5, datestamp=1714720293 (May 03 2024 07:11:33)
+0371.747 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0371.747 (0) Examining (for files) backup set with nonce=27850c4f68b6, datestamp=1711775027 (Mar 30 2024 05:03:47)
+0371.747 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0371.747 (0) Examining (for files) backup set with nonce=1198ca9caf8a, datestamp=1711733007 (Mar 29 2024 17:23:27)
+0371.747 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0371.747 (0) Examining (for files) backup set with nonce=1050e4030ff8, datestamp=1709302467 (Mar 01 2024 14:14:27)
+0371.747 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0371.747 (0) Examining (for files) backup set with nonce=2d62ac4e78f6, datestamp=1709178966 (Feb 29 2024 03:56:06)
+0371.747 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0371.748 (0) Examining (for files) backup set with nonce=163ae6dff14c, datestamp=1709126220 (Feb 28 2024 13:17:00)
+0371.748 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0371.748 (0) Examining (for files) backup set with nonce=bab510e6b628, datestamp=1709106003 (Feb 28 2024 07:40:03)
+0371.748 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0371.748 (0) Examining (for files) backup set with nonce=ef2516e00c73, datestamp=1709019882 (Feb 27 2024 07:44:42)
+0371.748 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0371.748 (0) Examining (for files) backup set with nonce=7ab5a170f01b, datestamp=1708937764 (Feb 26 2024 08:56:04)
+0371.748 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0371.749 (0) Examining (for files) backup set with nonce=95a8fbb2db95, datestamp=1708858641 (Feb 25 2024 10:57:21)
+0371.749 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0371.749 (0) Examining (for files) backup set with nonce=dc517ca6ece2, datestamp=1708714220 (Feb 23 2024 18:50:20)
+0371.749 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0371.749 (0) Examining (for files) backup set with nonce=2fcafdc2e575, datestamp=1708586180 (Feb 22 2024 07:16:20)
+0371.749 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0371.749 (0) Examining (for files) backup set with nonce=0e1dfd2a2266, datestamp=1708503202 (Feb 21 2024 08:13:22)
+0371.749 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0371.749 (0) Examining (for files) backup set with nonce=e7e83174b8cb, datestamp=1708418362 (Feb 20 2024 08:39:22)
+0371.749 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0371.749 (0) Examining (for files) backup set with nonce=016ee1215a2f, datestamp=1708358542 (Feb 19 2024 16:02:22)
+0371.749 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0371.749 (0) Retain: saving new backup history (sets now: 33) and finishing retain operation
+0371.765 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 1 (147) files added so far); re-opening (prior size: 0 KB)
+0371.835 (0) Zip: backup_2024-08-12-1002_Sammer_18ae7a711862-others6.zip.tmp: 200 files added (on-disk size: 40.1 KB)
+0374.399 (0) The time we have been running (374.4) is approaching the resumption interval (402) - increasing resumption interval to 405
+0374.410 (0) Creating zip file manifest (backup_2024-08-12-1002_Sammer_18ae7a711862-others6.zip.list-temp.tmp)
+0374.414 (0) Successfully created zip file manifest (size: 9882)
+0374.458 (0) Created others zip (5) - 2128.5 KB in 2.8 s (759.6 KB/s) (sha1: 88e4d8d03874ee9175acd11412ec49d3f47ffa86, sha256: 242fadd9e4e21634ed7d3b33280caa2c7fd9867d13a2da6989b1536cfbab2060)
+0374.470 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0374.474 (0) No remote despatch: user chose no remote backup service
+0374.477 (0) Recording as successfully uploaded: backup_2024-08-12-1002_Sammer_18ae7a711862-others6.zip
+0374.483 (0) Deleting zip manifest (backup_2024-08-12-1002_Sammer_18ae7a711862-others6.zip.list.tmp)
+0374.493 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=4, retain_db=30
+0374.498 (0) Number of backup sets in history: 33; groups (db): 1
+0374.501 (0) Examining (for databases) backup set with group_id=0, nonce=8e671b236e46, datestamp=1723449703 (Aug 12 2024 08:01:43)
+0374.501 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0374.504 (0) Examining (for databases) backup set with group_id=0, nonce=37c8f34776ea, datestamp=1722831279 (Aug 05 2024 04:14:39)
+0374.505 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0374.505 (0) Examining (for databases) backup set with group_id=0, nonce=37f887823297, datestamp=1722831157 (Aug 05 2024 04:12:37)
+0374.505 (0) Examining (for databases) backup set with group_id=0, nonce=0643d3092e89, datestamp=1722828837 (Aug 05 2024 03:33:57)
+0374.505 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0374.505 (0) Examining (for databases) backup set with group_id=0, nonce=e7bee3f2fb39, datestamp=1722828595 (Aug 05 2024 03:29:55)
+0374.505 (0) Examining (for databases) backup set with group_id=0, nonce=7b58faf10bca, datestamp=1719916482 (Jul 02 2024 10:34:42)
+0374.505 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0374.506 (0) Examining (for databases) backup set with group_id=0, nonce=a168214e68e7, datestamp=1718851381 (Jun 20 2024 02:43:01)
+0374.506 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0374.509 (0) Examining (for databases) backup set with group_id=0, nonce=0bbed33d5f96, datestamp=1718851065 (Jun 20 2024 02:37:45)
+0374.509 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0374.512 (0) Examining (for databases) backup set with group_id=0, nonce=4d8d6a6a1b67, datestamp=1718850976 (Jun 20 2024 02:36:16)
+0374.513 (0) Examining (for databases) backup set with group_id=0, nonce=61d2771af1c0, datestamp=1717947376 (Jun 09 2024 15:36:16)
+0374.513 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0374.513 (0) Examining (for databases) backup set with group_id=0, nonce=5847dbea7c08, datestamp=1717861252 (Jun 08 2024 15:40:52)
+0374.513 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0374.513 (0) Examining (for databases) backup set with group_id=0, nonce=92572e18c988, datestamp=1717732550 (Jun 07 2024 03:55:50)
+0374.513 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0374.513 (0) Examining (for databases) backup set with group_id=0, nonce=f009c121e9a2, datestamp=1717650150 (Jun 06 2024 05:02:30)
+0374.513 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0374.513 (0) Examining (for databases) backup set with group_id=0, nonce=4972e8c7fe3e, datestamp=1717255472 (Jun 01 2024 15:24:32)
+0374.513 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0374.514 (0) Examining (for databases) backup set with group_id=0, nonce=0ffffb433736, datestamp=1717142135 (May 31 2024 07:55:35)
+0374.514 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0374.514 (0) Examining (for databases) backup set with group_id=0, nonce=99642449f11c, datestamp=1717045234 (May 30 2024 05:00:34)
+0374.514 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0374.514 (0) Examining (for databases) backup set with group_id=0, nonce=5145b0574902, datestamp=1714965929 (May 06 2024 03:25:29)
+0374.514 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0374.514 (0) Examining (for databases) backup set with group_id=0, nonce=dcd236fa2567, datestamp=1714806434 (May 04 2024 07:07:14)
+0374.514 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0374.514 (0) Examining (for databases) backup set with group_id=0, nonce=bd14320eeae5, datestamp=1714720293 (May 03 2024 07:11:33)
+0374.515 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0374.515 (0) Examining (for databases) backup set with group_id=0, nonce=27850c4f68b6, datestamp=1711775027 (Mar 30 2024 05:03:47)
+0374.515 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0374.515 (0) Examining (for databases) backup set with group_id=0, nonce=1198ca9caf8a, datestamp=1711733007 (Mar 29 2024 17:23:27)
+0374.515 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0374.515 (0) Examining (for databases) backup set with group_id=0, nonce=1050e4030ff8, datestamp=1709302467 (Mar 01 2024 14:14:27)
+0374.515 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0374.515 (0) Examining (for databases) backup set with group_id=0, nonce=2d62ac4e78f6, datestamp=1709178966 (Feb 29 2024 03:56:06)
+0374.515 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0374.515 (0) Examining (for databases) backup set with group_id=0, nonce=163ae6dff14c, datestamp=1709126220 (Feb 28 2024 13:17:00)
+0374.516 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0374.516 (0) Examining (for databases) backup set with group_id=0, nonce=bab510e6b628, datestamp=1709106003 (Feb 28 2024 07:40:03)
+0374.516 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0374.516 (0) Examining (for databases) backup set with group_id=0, nonce=ef2516e00c73, datestamp=1709019882 (Feb 27 2024 07:44:42)
+0374.516 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0374.516 (0) Examining (for databases) backup set with group_id=0, nonce=7ab5a170f01b, datestamp=1708937764 (Feb 26 2024 08:56:04)
+0374.516 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0374.516 (0) Examining (for databases) backup set with group_id=0, nonce=95a8fbb2db95, datestamp=1708858641 (Feb 25 2024 10:57:21)
+0374.516 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0374.517 (0) Examining (for databases) backup set with group_id=0, nonce=dc517ca6ece2, datestamp=1708714220 (Feb 23 2024 18:50:20)
+0374.517 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0374.517 (0) Examining (for databases) backup set with group_id=0, nonce=2fcafdc2e575, datestamp=1708586180 (Feb 22 2024 07:16:20)
+0374.517 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0374.517 (0) Examining (for databases) backup set with group_id=0, nonce=0e1dfd2a2266, datestamp=1708503202 (Feb 21 2024 08:13:22)
+0374.517 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0374.517 (0) Examining (for databases) backup set with group_id=0, nonce=e7e83174b8cb, datestamp=1708418362 (Feb 20 2024 08:39:22)
+0374.517 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0374.517 (0) Examining (for databases) backup set with group_id=0, nonce=016ee1215a2f, datestamp=1708358542 (Feb 19 2024 16:02:22)
+0374.517 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0374.518 (0) Number of backup sets in history: 33; groups (files): 1
+0374.521 (0) Examining (for files) backup set with nonce=8e671b236e46, datestamp=1723449703 (Aug 12 2024 08:01:43)
+0374.521 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0374.524 (0) Examining (for files) backup set with nonce=37c8f34776ea, datestamp=1722831279 (Aug 05 2024 04:14:39)
+0374.524 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0374.524 (0) Examining (for files) backup set with nonce=37f887823297, datestamp=1722831157 (Aug 05 2024 04:12:37)
+0374.524 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0374.527 (0) Examining (for files) backup set with nonce=0643d3092e89, datestamp=1722828837 (Aug 05 2024 03:33:57)
+0374.527 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0374.530 (0) Examining (for files) backup set with nonce=e7bee3f2fb39, datestamp=1722828595 (Aug 05 2024 03:29:55)
+0374.530 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0374.534 (0) Examining (for files) backup set with nonce=7b58faf10bca, datestamp=1719916482 (Jul 02 2024 10:34:42)
+0374.534 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0374.538 (0) Examining (for files) backup set with nonce=a168214e68e7, datestamp=1718851381 (Jun 20 2024 02:43:01)
+0374.538 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0374.541 (0) Examining (for files) backup set with nonce=0bbed33d5f96, datestamp=1718851065 (Jun 20 2024 02:37:45)
+0374.541 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0374.544 (0) Examining (for files) backup set with nonce=4d8d6a6a1b67, datestamp=1718850976 (Jun 20 2024 02:36:16)
+0374.544 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0374.547 (0) Examining (for files) backup set with nonce=61d2771af1c0, datestamp=1717947376 (Jun 09 2024 15:36:16)
+0374.547 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0374.550 (0) Examining (for files) backup set with nonce=5847dbea7c08, datestamp=1717861252 (Jun 08 2024 15:40:52)
+0374.550 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0374.551 (0) Examining (for files) backup set with nonce=92572e18c988, datestamp=1717732550 (Jun 07 2024 03:55:50)
+0374.551 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0374.551 (0) Examining (for files) backup set with nonce=f009c121e9a2, datestamp=1717650150 (Jun 06 2024 05:02:30)
+0374.551 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0374.551 (0) Examining (for files) backup set with nonce=4972e8c7fe3e, datestamp=1717255472 (Jun 01 2024 15:24:32)
+0374.551 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0374.551 (0) Examining (for files) backup set with nonce=0ffffb433736, datestamp=1717142135 (May 31 2024 07:55:35)
+0374.551 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0374.551 (0) Examining (for files) backup set with nonce=99642449f11c, datestamp=1717045234 (May 30 2024 05:00:34)
+0374.551 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0374.551 (0) Examining (for files) backup set with nonce=5145b0574902, datestamp=1714965929 (May 06 2024 03:25:29)
+0374.551 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0374.551 (0) Examining (for files) backup set with nonce=dcd236fa2567, datestamp=1714806434 (May 04 2024 07:07:14)
+0374.551 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0374.551 (0) Examining (for files) backup set with nonce=bd14320eeae5, datestamp=1714720293 (May 03 2024 07:11:33)
+0374.551 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0374.551 (0) Examining (for files) backup set with nonce=27850c4f68b6, datestamp=1711775027 (Mar 30 2024 05:03:47)
+0374.551 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0374.551 (0) Examining (for files) backup set with nonce=1198ca9caf8a, datestamp=1711733007 (Mar 29 2024 17:23:27)
+0374.551 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0374.552 (0) Examining (for files) backup set with nonce=1050e4030ff8, datestamp=1709302467 (Mar 01 2024 14:14:27)
+0374.552 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0374.552 (0) Examining (for files) backup set with nonce=2d62ac4e78f6, datestamp=1709178966 (Feb 29 2024 03:56:06)
+0374.552 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0374.552 (0) Examining (for files) backup set with nonce=163ae6dff14c, datestamp=1709126220 (Feb 28 2024 13:17:00)
+0374.552 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0374.552 (0) Examining (for files) backup set with nonce=bab510e6b628, datestamp=1709106003 (Feb 28 2024 07:40:03)
+0374.552 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0374.552 (0) Examining (for files) backup set with nonce=ef2516e00c73, datestamp=1709019882 (Feb 27 2024 07:44:42)
+0374.552 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0374.552 (0) Examining (for files) backup set with nonce=7ab5a170f01b, datestamp=1708937764 (Feb 26 2024 08:56:04)
+0374.552 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0374.552 (0) Examining (for files) backup set with nonce=95a8fbb2db95, datestamp=1708858641 (Feb 25 2024 10:57:21)
+0374.552 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0374.552 (0) Examining (for files) backup set with nonce=dc517ca6ece2, datestamp=1708714220 (Feb 23 2024 18:50:20)
+0374.552 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0374.552 (0) Examining (for files) backup set with nonce=2fcafdc2e575, datestamp=1708586180 (Feb 22 2024 07:16:20)
+0374.552 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0374.552 (0) Examining (for files) backup set with nonce=0e1dfd2a2266, datestamp=1708503202 (Feb 21 2024 08:13:22)
+0374.552 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0374.552 (0) Examining (for files) backup set with nonce=e7e83174b8cb, datestamp=1708418362 (Feb 20 2024 08:39:22)
+0374.552 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0374.553 (0) Examining (for files) backup set with nonce=016ee1215a2f, datestamp=1708358542 (Feb 19 2024 16:02:22)
+0374.553 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0374.553 (0) Retain: saving new backup history (sets now: 33) and finishing retain operation
+0374.579 (0) Saving backup status to database (elements: 13)
+0374.590 (0) No database backup (wp) - not part of this run
+0374.600 (0) backup_2024-08-12-1002_Sammer_18ae7a711862-plugins.zip: plugins: This file has already been successfully uploaded
+0374.603 (0) backup_2024-08-12-1002_Sammer_18ae7a711862-themes.zip: themes: This file has already been successfully uploaded
+0374.607 (0) backup_2024-08-12-1002_Sammer_18ae7a711862-uploads.zip: uploads: This file has already been successfully uploaded
+0374.610 (0) backup_2024-08-12-1002_Sammer_18ae7a711862-others.zip: others: This file has already been successfully uploaded
+0374.613 (0) backup_2024-08-12-1002_Sammer_18ae7a711862-others2.zip: others: This file has already been successfully uploaded
+0374.616 (0) backup_2024-08-12-1002_Sammer_18ae7a711862-others3.zip: others: This file has already been successfully uploaded
+0374.619 (0) backup_2024-08-12-1002_Sammer_18ae7a711862-others4.zip: others: This file has already been successfully uploaded
+0374.622 (0) backup_2024-08-12-1002_Sammer_18ae7a711862-others5.zip: others: This file has already been successfully uploaded
+0374.625 (0) backup_2024-08-12-1002_Sammer_18ae7a711862-others6.zip: others: This file has already been successfully uploaded
+0374.628 (0) Saving backup history. Total backup size: 2.7 GB
+0374.640 (0) Resume backup (18ae7a711862, 0): finish run
+0374.646 (0) There were no more files that needed uploading
+0374.651 (0) Decremented the semaphore (f) by 1
+0374.657 (0) Semaphore (f) unlocked
+0374.661 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0374.675 (0) No email will be sent - this backup set was empty.
+0374.678 (0) The backup succeeded and is now complete

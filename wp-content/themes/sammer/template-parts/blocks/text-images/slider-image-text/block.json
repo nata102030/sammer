@@ -1,0 +1,22 @@
+{
+    "name": "acf/slider-image-text",
+    "title": "Slider-Bildtext",
+    "description": "Slider-Bildtext",
+    "category": "text-images-modules",
+    "icon": "admin-comments",
+    "keywords": [
+        "Slider"
+    ],
+    "acf": {
+        "mode": "edit",
+        "renderTemplate": "slider-image-text.php"
+    },
+    "example": {
+        "attributes": {
+            "mode": "preview",
+            "data": {
+                "gutenberg_preview_image": true
+            }
+        }
+    }
+}
